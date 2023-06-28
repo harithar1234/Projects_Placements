@@ -1,0 +1,182 @@
+{
+"intents": [
+{
+"tag": "greeting",
+"patterns": ["Hi", "Hey", "Is anyone there?", "Hello", "Hay"],
+"responses": ["Hello", "Hi", "Hi there"]
+},
+{
+"tag": "goodbye",
+"patterns": ["See you later", "Goodbye"],
+"responses": ["See you later", "Have a nice day", "Bye! Come back again"]
+},
+{
+"tag": "thanks",
+"patterns": ["Thanks", "Thank you", "That's helpful", "Thanks for the help"],
+"responses": ["Happy to help!", "Any time!", "My pleasure", "You're most welcome!"]
+},
+{
+"tag": "about",
+"patterns": ["Who are you?", "What are you?", "Who you are?" ],
+"responses": ["I'm Haritha, your bot assistant.", "I'm Haritha, an Artificial Intelligent bot."]
+},
+{
+"tag": "name",
+"patterns": ["What is your name", "What should I call you", "What's your name?"],
+"responses": ["You can call me Haritha.", "I'm Haritha!", "Just call me Haritha."]
+},
+{
+"tag": "help",
+"patterns": ["Could you help me?", "Give me a hand please", "Can you help?", "What can you do for me?", "I need support", "I need help", "Support me please"],
+"responses": ["Tell me how can I assist you.", "Tell me your problem to assist you.", "Yes, sure! How can I support you?"]
+},
+{
+"tag": "createaccount",
+"patterns": ["I need to create a new account", "How to open a new account", "I want to create an account", "Can you create an account for me", "How to open a new account"],
+"responses": ["You can easily create a new account on our website.", "Just go to our website and follow the guidelines to create a new account."]
+},
+{
+"tag": "complaint",
+"patterns": ["I have a complaint", "I want to raise a complaint", "There is a complaint about a service"],
+"responses": ["Please provide us with your complaint so that we can assist you.", "Please mention your complaint. We apologize for any inconvenience caused."]
+},
+{
+"tag": "ordertracking",
+"patterns": ["How can I track my order?", "Where can I find my order tracking information?", "I want to know the status of my order.", "Can you help me track my delivery?"],
+"responses": ["To track your order, you can visit the 'Order Tracking' section on our website or app. Enter your order details, and you'll get real-time updates on the status and location of your delivery.", "You can track your order by logging into your account on our website or app. Go to the 'Order Tracking' section, enter your order information, and you'll see the current status of your delivery.", "For tracking your order, please visit our website or app and go to the 'Track Order' page. Enter your order details, and you'll be able to see the live updates for your delivery."]
+},
+{
+"tag": "orderid",
+"patterns": ["Where can I find my order ID?", "How do I get my order ID?", "What is my order ID?", "I can't find my order ID."],
+"responses": ["Your order ID can be found in the confirmation email or SMS you received after placing the order. It is usually a unique alphanumeric code.", "You can find your order ID in the 'Order History' section of your account. It is also mentioned in the confirmation message sent to your registered contact number."]
+},
+{
+"tag": "invoice",
+"patterns": ["Can I get an invoice for my order?", "Where can I find my order invoice?", "I need a copy of my invoice."],
+"responses": ["Certainly! An invoice for your order will be included in the package upon delivery. If you require an electronic copy, please provide your order details, and we'll send it to you via email.", "The invoice for your order can be found in the 'Order History' section of your account. If you need a physical copy, it will be provided along with your delivery."]
+},
+{
+"tag": "qualityissue",
+"patterns": ["The food quality was poor.", "I received low-quality food.", "The food did not meet my expectations in terms of quality."],
+"responses": ["We apologize for the inconvenience caused by the poor food quality. Your feedback is valuable to us. Please provide specific details about the issue, and we'll investigate and make it right.", "We're sorry to hear that the food quality didn't meet your expectations. Please share more information about the problem, and we'll take immediate action to address it.", "We apologize for the food not meeting your expectations in terms of quality. Please provide more information about the problem, and we'll address it accordingly."]
+},
+{
+"tag": "quantityissue",
+"patterns": ["I received an incorrect quantity of food.", "The food portion size was too small.", "I didn't receive the right amount of food."],
+"responses": ["We apologize for the error. Please let us know the specific details of the quantity issue you encountered, and we'll rectify it as soon as possible.", "We're sorry for the inconvenience caused by the incorrect food quantity. Kindly provide more information about the issue, and we'll take the necessary steps to resolve it.", "We apologize for the discrepancy in the food quantity. Please share the specific details so that we can investigate and make it right."]
+},
+{
+"tag": "packagingissue",
+"patterns": ["The food packaging was damaged.", "The food arrived in poor packaging.", "The packaging quality was unsatisfactory."],
+"responses": ["We apologize for the inconvenience caused by the damaged packaging. Please provide more details about the packaging issue, and we'll take immediate action to address it.", "We're sorry to hear about the packaging problem. Your feedback is valuable to us. Kindly provide specific information about the issue, and we'll investigate and make necessary improvements.", "We apologize for the unsatisfactory packaging. Please share specific details about the packaging issue you faced so that we can take appropriate measures to rectify it."]
+},
+{
+"tag": "spillingissue",
+"patterns": ["The food was spilled during delivery.", "There was spillage in the food packaging.", "The food arrived with spills."],
+"responses": ["We apologize for the inconvenience caused by the spillage. Please provide more details about the issue, and we'll take immediate action to address it.", "We're sorry to hear about the spillage in the food packaging. Your feedback is important to us. Kindly provide specific information about the spillage, and we'll investigate and make necessary improvements.", "We apologize for the food arriving with spills. Please share specific details about the issue you faced so that we can take appropriate measures to rectify it."]
+},
+{
+"tag": "deliveryagentbehavior",
+"patterns": ["The delivery agent was rude.", "I had a bad experience with the delivery person.", "The behavior of the delivery agent was unacceptable."],
+"responses": ["We apologize for the unpleasant experience you had with our delivery agent. Kindly provide more information about the incident, and we'll take appropriate action to address it.", "We're sorry to hear about the behavior of our delivery agent. Your feedback is important to us. Please share specific details about the incident, and we'll investigate and ensure necessary steps are taken.", "We apologize for the unacceptable behavior of our delivery agent. Please provide more information about the incident, and we'll take immediate action to address it."]
+},
+{
+"tag": "ordernotdelivered",
+"patterns": ["My order hasn't been delivered yet.", "Where is my order?", "I haven't received my order.", "Why is my order delayed?"],
+"responses": ["We apologize for the delay in delivering your order. Kindly provide your order details, and we'll look into it and provide you with an update.", "We're sorry to hear that your order hasn't been delivered yet. Please share your order information, and we'll investigate and resolve the issue promptly.", "We apologize for the inconvenience caused by the delay in delivery. Please provide your order details, and we'll track it for you."]
+},
+{
+"tag": "missingitems",
+"patterns": ["Some items are missing from my order.", "I didn't receive all the items I ordered.", "There are missing items in my delivery."],
+"responses": ["We apologize for the inconvenience caused by the missing items. Please provide the details of the missing items, and we'll take immediate action to resolve the issue.", "We're sorry to hear that some items are missing from your order. Kindly share the specific information about the missing items, and we'll rectify it as soon as possible.", "We apologize for the missing items in your delivery. Please provide the details of the missing items, and we'll ensure they are delivered to you."]
+},
+{
+"tag": "differentitems",
+"patterns": ["I received different items than what I ordered.", "The items in my delivery are incorrect.", "I got the wrong items in my order."],
+"responses": ["We apologize for the incorrect items in your order. Kindly provide more details about the discrepancy, and we'll rectify it as soon as possible.", "We're sorry to hear that you received different items. Please share the specific information about the incorrect items, and we'll take immediate action to address the issue.", "We apologize for the wrong items in your delivery. Please provide the details of the incorrect items, and we'll ensure the correct items are delivered to you."]
+},
+{
+"tag": "customercarenumber",
+"patterns": ["What is the customer care number?", "How can I contact customer support?", "I need to speak to a customer care representative.", "Can you provide the helpline number?"],
+"responses": ["Our customer care helpline number is 9444070589. You can reach out to us on this number for any assistance or queries.", "To contact our customer support, please dial 9444070589. Our team will be happy to assist you with any concerns or questions you may have.", "You can contact our customer care team at 9444070589. They are available to help you with any issues or inquiries you may have."]
+},
+{
+"tag": "ordercancellation",
+"patterns": ["How can I cancel my order?", "I want to cancel my order.", "Can you help me with order cancellation?", "What is the process to cancel an order?"],
+"responses": ["To cancel your order, please log into your account and go to the 'Order History' section. Find your order and select the cancellation option. Follow the instructions to complete the cancellation process.", "You can cancel your order by visiting the 'Order History' section of your account. Locate the order you wish to cancel and choose the cancellation option. The necessary steps will be provided to you.", "To cancel your order, log into your account and go to the 'Order History' page. Find the order you want to cancel and select the cancellation option. Follow the prompts to complete the cancellation."]
+},
+{
+"tag": "refund",
+"patterns": ["How can I get a refund?", "I haven't received a refund yet.", "Can you assist me with a refund?", "What is the refund process?"],
+"responses": ["To initiate a refund, please contact our customer support team with your order details. They will assist you with the refund process and guide you through the necessary steps.", "We apologize for the delay in your refund. Kindly provide your order information, and we'll investigate and ensure that the refund is processed as soon as possible.", "For a refund, please get in touch with our customer support team. They will help you with the refund process and provide you with the required assistance."]
+},
+{
+      "tag": "operationtime",
+      "patterns": [
+        "What are your opening hours?" , "When do you open?" , "When do you close?" , "What is the opening time?" , "What is the closing time"
+      ],
+      "responses": [
+        "Our opening hours are 24/7. We are available any time."
+      ]
+    },
+    {
+      "tag": "discounts",
+      "patterns": [
+        "Do you have any discounts or offers?" 
+      ],
+      "responses": [
+        "Yes, we have ongoing discounts and offers. You can check our website or app for the latest deals."
+      ]
+    },
+    {
+      "tag": "customization",
+      "patterns": [
+        "Can I customize my order?" , "I want to customize my order" , "Is it possible to customize my order?"
+      ],
+      "responses": [
+        "Certainly! You can customize your order as per your preferences."
+      ]
+    },
+    {
+      "tag": "payment",
+      "patterns": [
+        "What are the payment options?" ,"How can i pay?"
+      ],
+      "responses": [
+        "We offer various payment options including cash on delivery, credit/debit card, and online payment wallets."
+      ]
+    },
+    {
+      "tag": "deliverycharges",
+      "patterns": [
+        "Are there any delivery charges?" , "What are the delivery charges?"
+      ],
+      "responses": [
+        "Delivery charges may vary depending on the restaurant and your location. Some restaurants offer free delivery, while others may have a nominal fee."
+      ]
+    },
+    {
+      "tag": "deliverytime",
+      "patterns": [
+        "How long does the delivery usually take?", "What delivery time will a order take?" 
+      ],
+      "responses": [
+        "The delivery time usually depends on your location and the availability of the items. It typically takes around 30 minutes, but it's subject to change."
+      ]
+    },
+{
+      "tag": "multiplerestaurants",
+      "patterns": [
+        "Can I order food from multiple restaurants at once?", "Can I create multiple orders?"
+      ],
+      "responses": [
+        "Sure! You can order from multiple restaurants in one order. Just add items from different restaurants to your cart."
+      ]
+ },
+{
+  "tag": "itemunavailable",
+  "patterns": ["The item I want to order is unavailable.", "I can't find the item I'm looking for.", "Do you have any alternatives for the out-of-stock item?"],
+  "responses": ["We apologize for the inconvenience caused by the unavailability of the item. Our inventory may vary, but we have a wide selection of other items to choose from. Can I assist you in finding an alternative?", "We're sorry that the item you're looking for is currently unavailable. Our inventory is subject to change, but we have a variety of other options you might be interested in. Can I help you find an alternative?", "We apologize for the item being out of stock. We have a range of other options available. Can I assist you in finding a suitable alternative?"]
+}
+]
+}
