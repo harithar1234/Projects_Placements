@@ -1,0 +1,62 @@
+User: hi
+1/1 [==============================] - 0s 23ms/step
+Bot: Hi there
+User: who are you
+1/1 [==============================] - 0s 22ms/step
+Bot: I'm Haritha, an Artificial Intelligent bot.
+User: your name is
+1/1 [==============================] - 0s 37ms/step
+Bot: You can call me Haritha.
+User: i need a help
+1/1 [==============================] - 0s 31ms/step
+Bot: Yes, sure! How can I support you?
+User: how to create a account
+1/1 [==============================] - 0s 26ms/step
+Bot: You can easily create a new account on our website.
+User: i want to customize order
+1/1 [==============================] - 0s 26ms/step
+Bot: Certainly! You can customize your order as per your preferences.
+User: how to pay
+1/1 [==============================] - 0s 23ms/step
+Bot: We offer various payment options including cash on delivery, credit/debit card, and online payment wallets.
+User: what is the operating time
+1/1 [==============================] - 0s 22ms/step
+Bot: Our opening hours are 24/7. We are available any time.
+User: can i create multi orders 
+1/1 [==============================] - 0s 24ms/step
+Bot: Sure! You can order from multiple restaurants in one order. Just add items from different restaurants to your cart.
+User: what is the delivery time for an order
+1/1 [==============================] - 0s 26ms/step
+Bot: The delivery time usually depends on your location and the availability of the items. It typically takes around 30 minutes, but it's subject to change.
+User: how to track my order
+1/1 [==============================] - 0s 25ms/step
+Bot: For tracking your order, please visit our website or app and go to the 'Track Order' page. Enter your order details, and you'll be able to see the live updates for your delivery.
+User: what is my order id
+1/1 [==============================] - 0s 24ms/step
+Bot: You can find your order ID in the 'Order History' section of your account. It is also mentioned in the confirmation message sent to your registered contact number.
+User: order is still not delivered
+1/1 [==============================] - 0s 27ms/step
+Bot: We apologize for the inconvenience caused by the delay in delivery. Please provide your order details, and we'll track it for you.
+User: i have complaint regarding the order delivered
+1/1 [==============================] - 0s 26ms/step
+Bot: Please mention your complaint. We apologize for any inconvenience caused.
+User: the delivery person is very bad
+1/1 [==============================] - 0s 22ms/step
+Bot: We apologize for the unacceptable behavior of our delivery agent. Please provide more information about the incident, and we'll take immediate action to address it.
+User: he spilled the food
+1/1 [==============================] - 0s 22ms/step
+Bot: We're sorry to hear about the spillage in the food packaging. Your feedback is important to us. Kindly provide specific information about the spillage, and we'll investigate and make necessary improvements.
+User: i want refund
+1/1 [==============================] - 0s 22ms/step
+Bot: For a refund, please get in touch with our customer support team. They will help you with the refund process and provide you with the required assistance.
+User: what is customer care number
+1/1 [==============================] - 0s 27ms/step
+Bot: You can contact our customer care team at 9444070589. They are available to help you with any issues or inquiries you may have.
+User: i want my order invoice 
+1/1 [==============================] - 0s 23ms/step
+Bot: The invoice for your order can be found in the 'Order History' section of your account. If you need a physical copy, it will be provided along with your delivery.
+User: ok thanks 
+1/1 [==============================] - 0s 27ms/step
+Bot: Any time!
+User: bye
+Bot: Goodbye!
