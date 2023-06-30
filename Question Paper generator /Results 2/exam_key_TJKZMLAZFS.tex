@@ -1,0 +1,192 @@
+
+\documentclass{exam}
+\usepackage{multicol}
+\usepackage{amsmath}
+\usepackage{circuitikz}
+\ctikzset{bipoles/length=0.8cm}
+\usepackage{tikz,lipsum,lmodern}
+\usepackage[most]{tcolorbox}
+\renewcommand{\baselinestretch}{1.4}
+\definecolor{foo}{HTML}{98777B}
+\definecolor{foa}{HTML}{FF5733}
+\definecolor{dcm}{HTML}{AA967E}
+\setlength\columnsep{20pt}
+\usepackage{exam-randomizechoices}
+\usepackage{pgfbaseshapes}
+\usepackage{geometry}
+\usepackage{multirow}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{wrapfig}
+\usepackage{afterpage}
+
+
+\printanswers
+\begin{document}
+\newgeometry{left=1.5cm,bottom=2cm,right=1.5cm, top=2cm}
+\begin{tcolorbox}[colupper=white, arc=0mm, height=4cm,valign=center, halign=center,
+enlarge left by=-1.5cm, enlarge top by=-2cm, width=\linewidth+3cm,
+colback=dcm, colframe=white]
+  {\sffamily \huge IDP Questions Creation}
+\end{tcolorbox}
+\begin{tcolorbox}[arc=0mm, height=1.5cm, valign=center, enlarge top by= -3.2cm, enlarge left by=-1cm, width=\linewidth+2cm, colback=white!90!black, colframe=white]
+  \flushleft {\sffamily \large \hspace{1cm} Name: \hfill Roll no: \hfill Code : TJKZMLAZFS \hspace{2cm}}
+\end{tcolorbox}
+\begin{multicols}{2}
+
+
+
+\centering{Scan/click for YouTube playlist \\ to learn solving these questions. \\ \href{https://www.youtube.com/playlist?list=PL-uxPiMl0_6FYOT_Vq6GyBCWVj3q6r31V}
+{\includegraphics[width=3cm]{qrcodes/ac-circuits-ypl.png}}}
+
+
+\begin{questions}
+\section{Power Systems}\question Two resistances $R_1$ and $R_2$ are connected in series. What is the equivalent resistance ?
+
+\begin{choices}
+\correctchoice 86.00  $\Omega$
+\choice 33.00   $\Omega$
+\choice 53.00    $\Omega$
+\choice 20.34 $\Omega$  
+\end{choices}
+
+\question
+Find the potential difference between P and Q.
+\begin{circuitikz}
+    \node at (0,1.3){P};
+    \node at (-2.2,-2){X};
+    \node at (2.2,-2){Y};
+    \node at (0,-5.3){Q};
+    \draw
+    (0,1) to[short,i=7A] (0,0){}
+    (0,0) to [R=1$\Omega$](-2,-2){}
+    (0,0) to [R=6$\Omega$](2,-2){}
+    (-2,-2) to [R=20$\Omega$](0,-4){}
+    (2,-2) to [R=12$\Omega$](0,-4){}
+    (0,0) to [R=$3\Omega$](0,-4){}
+    (0,-4) to[short] (0,-5);
+\end{circuitikz}
+
+\begin{randomizechoices}
+\correctchoice 16.04
+\choice 3.06
+\choice 0.44
+\choice 2.29
+\end{randomizechoices}
+\question A transformer has its maximum efficiency of 98\% at 25 kVA at upf. During the day it is loaded as follows:\\
+12 hours : 1 kW at pf 0.5 lag\\
+6 hours : 6 kW at pf 0.5 lag\\
+6 hours : 14 kW at pf 0.5 lag\\
+Find the all day efficiency of the transformer
+\begin{randomizechoices}
+\correctchoice 94.007 \%
+\choice 5.993 \%
+\choice 47.004 \%
+\choice -76.915 \%
+\end{randomizechoices}
+
+\question A transformer has its maximum efficiency of 98\% at 26 kVA at upf. During the day it is loaded as follows:\\
+12 hours : 4 kW at pf 0.6 lag\\
+6 hours : 9 kW at pf 0.7 lag\\
+6 hours : 17 kW at pf 0.4 lag\\
+Find the all day efficiency of the transformer
+\begin{randomizechoices}
+\correctchoice 94.787 \%
+\choice 5.213 \%
+\choice 47.394 \%
+\choice -50.181 \%
+\end{randomizechoices}
+
+\question Two resistances $R_1$ and $R_2$ are connected in series. What is the equivalent resistance ?
+
+\begin{choices}
+\correctchoice 66.00  $\Omega$
+\choice 35.00   $\Omega$
+\choice 31.00    $\Omega$
+\choice 16.44 $\Omega$  
+\end{choices}
+
+\question A transformer has its maximum efficiency of 98\% at 22 kVA at upf. During the day it is loaded as follows:\\
+12 hours : 6 kW at pf 0.5 lag\\
+6 hours : 8 kW at pf 0.6 lag\\
+6 hours : 19 kW at pf 0.4 lag\\
+Find the all day efficiency of the transformer
+\begin{randomizechoices}
+\correctchoice 94.751 \%
+\choice 5.249 \%
+\choice 47.376 \%
+\choice -36.443 \%
+\end{randomizechoices}
+
+\section{Electric Circuits}\question
+What will be the current density of metal if a current of 46A is passed through a cross-sectional area of 0.1$m^2$?
+
+
+\begin{randomizechoices}
+\correctchoice 460.0000 A/$m^2$
+\choice 0.0022 A/$m^2$
+\choice 46000.0000 A/$m^2$
+\choice 4.6000 A/$m^2$
+\end{randomizechoices}
+\question
+Find the equivalent resistance between the points A
+and B for r = 182 $\Omega$
+
+\begin{circuitikz}
+    \node at (0,2){};
+    \node at (2,0){};
+    \node at (-4,0){A};
+    \node at (4,0){B};
+    \node at (0,-2){};
+    \node at (-2,0){};
+    
+    \draw (-3.5,0) to[short ,o-] (-2,0){};
+   \draw (-2,0) to [R ,l_= $r$](0,2){};
+    \draw(-2,0) to [R ,l_= $r$](0,-2){};
+   \draw (0,2) to [R ,l_= $r$](0,0){};
+    \draw(0,-2) to [R ,l_= $r$](0,0){};
+   \draw  (2,0) to [R ,l_= $r$](0,2){};
+    \draw(2,0) to [R ,l_= $r$](0,-2){};
+   \draw (3.5,0) to[short ,o-] (2,0){};
+\end{circuitikz}
+
+\begin{randomizechoices}
+\correctchoice 182.000 $\Omega$
+\choice 0.005 $\Omega$
+\choice 728.000 $\Omega$
+\choice 364.000 $\Omega$
+\end{randomizechoices}\question
+Find the equivalent resistance between the points A
+and B for r = 443 $\Omega$
+
+\begin{circuitikz}
+    \node at (0,2){};
+    \node at (2,0){};
+    \node at (-4,0){A};
+    \node at (4,0){B};
+    \node at (0,-2){};
+    \node at (-2,0){};
+    
+    \draw (-3.5,0) to[short ,o-] (-2,0){};
+   \draw (-2,0) to [R ,l_= $r$](0,2){};
+    \draw(-2,0) to [R ,l_= $r$](0,-2){};
+   \draw (0,2) to [R ,l_= $r$](0,0){};
+    \draw(0,-2) to [R ,l_= $r$](0,0){};
+   \draw  (2,0) to [R ,l_= $r$](0,2){};
+    \draw(2,0) to [R ,l_= $r$](0,-2){};
+   \draw (3.5,0) to[short ,o-] (2,0){};
+\end{circuitikz}
+
+\begin{randomizechoices}
+\correctchoice 443.000 $\Omega$
+\choice 0.002 $\Omega$
+\choice 1772.000 $\Omega$
+\choice 886.000 $\Omega$
+\end{randomizechoices}
+\end{questions}
+\end{multicols}
+\centering{* * * All the Best * * *}
+\printkeytable	  
+\end{document}
+\writekeylist
