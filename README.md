@@ -1,6 +1,12 @@
 # Projects_Placements
 Contains the Projects done by me . Lets go to see them .
 
+## Object Detection with Voice feedback
+* implemented yolov3 algorithm and used pretrained model weights to detect multiple objects in one image .
+* used the google text to speech API to generate audio fle describing the objects in the image. 
+* The model identifed objects with a confdence of about 99% .
+https://github.com/harithar1234/Projects_Placements/tree/main/Object%20Detection%20with%20Voice%20feedback
+
 ## Chatbot
 * Implemented a retrieval-based chatbot(named Haritha) .
 * This Chatbot is specifically designed to mimic the chatbots of Food delivery platforms. It uses uses Natural Language Processing and Deep learning.
@@ -26,10 +32,6 @@ https://github.com/harithar1234/Projects_Placements/tree/main/DSA_projects/huffm
 * **Sudoku solver**<br>
 Implemented backtracking algorithm to solve Sudoku puzzles .<br>
 https://github.com/harithar1234/Projects_Placements/tree/main/DSA_projects/Sudoku%20solver<br>
-
-
-
-
 
 
 
