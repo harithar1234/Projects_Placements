@@ -27,7 +27,7 @@ used Data structures and Algorithms to implement many real world applications:<b
 * RISC-V Disassembler
 * Sorting Visualizer
 * File Zipper
-* Sudoku solver
+* Sudoku solver<br>
 https://github.com/harithar1234/Projects_Placements/tree/main/DSA_projects
 
 ## OS Multithreading 
