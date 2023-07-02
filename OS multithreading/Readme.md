@@ -1,3 +1,7 @@
+* The program utilizes multithreading to parallelize the task of finding perfect numbers, improving efficiency and leveraging concurrent execution. <br>
+* Challenges include thread synchronization, load balancing among threads, and optimizing scalability and performance across different hardware configurations and input sizes. <br>
+* **Problem Description :**
+
 Goal:- The objective of this program is to develop a multi-threaded solution to find a 
 list of perfect numbers. <br>
 Details:- N is a perfect number if the sum of all its factors, excluding itself, is N; 
