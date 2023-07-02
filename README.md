@@ -18,6 +18,10 @@ https://github.com/harithar1234/Projects_Placements/tree/main/Chatbot_food_deliv
 * Streamlined processes of question selection, paper creation, and customization, resulting in improved productivity
  https://github.com/harithar1234/Projects_Placements/tree/main/Question%20Paper%20generator%20
 
+## Development and Management of Database
+* Designed a fexible and efcient relational database from scratch for a scientifc research paper inquiry website with the referential integrity maintained. 
+* Developed informative ER diagrams, efcient relational table schema and retrieved information with complex queries. 
+
 ## DSA Projects 
 used Data structures and Algorithms to implement many real world applications:<br>
 * **RISC-V Disassembler** <br>
@@ -32,8 +36,6 @@ https://github.com/harithar1234/Projects_Placements/tree/main/DSA_projects/huffm
 * **Sudoku solver**<br>
 Implemented backtracking algorithm to solve Sudoku puzzles .<br>
 https://github.com/harithar1234/Projects_Placements/tree/main/DSA_projects/Sudoku%20solver<br>
-
-
 
 
 ## OS Multithreading 
