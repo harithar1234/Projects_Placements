@@ -1,5 +1,5 @@
 # Projects_Placements
-Contains the Projects done by me . My name is Haritha.R . Lets go to see them .
+Contains the Projects done by me . Lets go to see them .
 
 ## Chatbot
 * Implemented a retrieval-based chatbot(named Haritha) .
