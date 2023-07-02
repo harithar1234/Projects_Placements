@@ -1,6 +1,12 @@
 # Projects_Placements
 Contains the Projects done by me . My name is Haritha.R . Lets go to see them .
 
+## Chatbot
+* Implemented a retrieval-based chatbot(named Haritha) .
+* This Chatbot is specifically designed to mimic the chatbots of Food delivery platforms. It uses uses Natural Language Processing and Deep learning.
+* The chatbot achieved an accuracy of 98% in generating appropriate responses . 
+https://github.com/harithar1234/Projects_Placements/tree/main/Chatbot_food_delivery
+
 ## Question paper generator
 * Implemented automated system for generating unique exam papers, optimizing efficiency and customization through question bank and parameter substitution techniques.
 * Streamlined processes of question selection, paper creation, and customization, resulting in improved productivity
