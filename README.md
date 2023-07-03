@@ -31,6 +31,10 @@ used Data structures and Algorithms to implement many real world applications:<b
 * Sudoku solver<br>
 https://github.com/harithar1234/Projects_Placements/tree/main/DSA_projects
 
+## Hackathons
+* Achieved Score: 0.87337 of  Kaggle challenge named "Is the driver at fault?" . Achieved Score: 0.99828 of  Kaggle challenge named "Digit Recognizer"  .
+https://github.com/harithar1234/Projects_Placements/tree/main/Hackathons
+
 ## OS Multithreading 
 * The program utilizes multithreading to parallelize the task of finding perfect numbers, improving efficiency and leveraging concurrent execution. <br>
 https://github.com/harithar1234/Projects_Placements/tree/main/OS%20multithreading
