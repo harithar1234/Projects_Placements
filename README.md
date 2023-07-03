@@ -19,8 +19,9 @@ https://github.com/harithar1234/Projects_Placements/tree/main/Chatbot_food_deliv
  https://github.com/harithar1234/Projects_Placements/tree/main/Question%20Paper%20generator%20
 
 ## Development and Management of Database
-* Designed a fexible and efcient relational database from scratch for a scientifc research paper inquiry website with the referential integrity maintained. 
-* Developed informative ER diagrams, efcient relational table schema and retrieved information with complex queries. 
+* Designed a flexible and efficient relational database from scratch for a scientific research paper inquiry website with the referential integreity maintained. 
+* Developed informative ER diagrams, efficient relational table schema and retrieved information with complex queries.
+  https://github.com/harithar1234/Projects_Placements/tree/main/Development%20and%20Management%20of%20Database
 
 ## DSA Projects 
 used Data structures and Algorithms to implement many real world applications:<br>
