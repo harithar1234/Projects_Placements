@@ -36,6 +36,10 @@ https://github.com/harithar1234/Projects_Placements/tree/main/DSA_projects
 * Achieved Score: 0.99828 of  Kaggle challenge named "Digit Recognizer"  .<br>
 https://github.com/harithar1234/Projects_Placements/tree/main/Hackathons
 
+## Analyzing Laptop Specifications
+* A data-driven analysis of laptop specifications was conducted, uncovering valuable insights and market trends that facilitate informed decision-making for laptop purchases and market analysis. <br>
+https://github.com/harithar1234/Projects_Placements/tree/main/Analyzing%20Laptop%20Specifications
+
 ## OS Multithreading 
 * The program utilizes multithreading to parallelize the task of finding perfect numbers, improving efficiency and leveraging concurrent execution. <br>
 https://github.com/harithar1234/Projects_Placements/tree/main/OS%20multithreading
