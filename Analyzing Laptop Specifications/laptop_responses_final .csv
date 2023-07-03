@@ -1,0 +1,240 @@
+timestamp,email,stream,brand,price_range,display,display_type,ram_size,cpu_clock_speed,cpu,cpu_model,graphic_card,storage_type,hdd_size,ssd_size,operating_sys,avg_watch_time
+3/29/2022 17:15:21,ep18btech11011@iith.ac.in,UG,Lenovo,"Rs. 70,000 - Rs. 80,000",14 inch - 15 inch,Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i7,None,HDD,500 GB,None,Windows,180
+3/29/2022 17:15:29,ee21resch01003@iith.ac.in,PhD,HP,"Rs. 50,000 - Rs. 60,000",13 inch - 14 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Intel Graphics,SSD,None,512 GB,Windows,212
+3/29/2022 17:16:12,ai21mtech13006@iith.ac.in,PG,HP,"Rs. 40,000 - Rs. 50,000",14 inch - 15 inch,Non-Touch,4 GB,2 GHZ - 3 GHZ,Intel,Intel i3,None,HDD,500 GB,None,Windows,164
+3/29/2022 17:16:50,ai20btech11022@iith.ac.in,UG,Apple,"Rs. 90,000 and above",13 inch - 14 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Apple,M1,None,SSD,None,256 GB,MacOS,469
+3/29/2022 17:18:23,ns20mtech11004@iith.ac.in,PG,Lenovo,"Rs. 60,000 - Rs. 70,000",14 inch - 15 inch,Non-Touch,8 GB,3 GHZ and above,AMD,AMD Ryzen 7,Nvidia Graphics,SSD,None,512 GB,Linux,413
+3/29/2022 17:18:23,ch20btech11040@iith.ac.in,UG,Dell,"Rs. 70,000 - Rs. 80,000",14 inch - 15 inch,Non-Touch,8 GB,3 GHZ and above,Intel,Intel i5,Nvidia Graphics,SSD,None,512 GB,Windows,324
+3/29/2022 17:19:02,ch18btech11005@iith.ac.in,UG,HP,"Rs. 50,000 - Rs. 60,000",14 inch - 15 inch,Non-Touch,8 GB,3 GHZ and above,Intel,Intel i7,Nvidia Graphics,HDD,1 TB,None,"Windows, Linux",841
+3/29/2022 17:19:12,ch20resch11003@iith.ac.in,PhD,Lenovo,"Rs. 30,000 - Rs. 40,000",14 inch - 15 inch,Non-Touch,4 GB,1 GHZ - 2 GHZ,Intel,Intel i3,None,HDD,500 GB,None,Windows,647
+3/29/2022 17:24:27,cs20resch11003@iith.ac.in,PhD,Dell,"Rs. 60,000 - Rs. 70,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i7,AMD Radeon Graphics,HDD,1 TB,None,"Windows, Linux",626
+3/29/2022 17:24:53,me19btech11008@iith.ac.in,UG,HP,"Rs. 90,000 and above",15 inch - 16 inch,Touch,16 GB,3 GHZ and above,Intel,Intel i7,Intel Graphics,HDD,500 GB,None,Windows,683
+3/29/2022 17:25:25,ew21mtech11005@iith.ac.in,PG,HP,"Rs. 40,000 - Rs. 50,000",14 inch - 15 inch,Non-Touch,4 GB,2 GHZ - 3 GHZ,Intel,Intel i5,AMD Radeon Graphics,HDD,1 TB,None,Windows,672
+3/29/2022 17:25:34,ep19btech11007@iith.ac.in,UG,Dell,"Rs. 60,000 - Rs. 70,000",14 inch - 15 inch,Non-Touch,16 GB,3 GHZ and above,Intel,Intel i5,Intel Graphics,SSD,None,512 GB,Windows,262
+3/29/2022 17:26:22,cs20btech11012@iith.ac.in,UG,HP,"Rs. 50,000 - Rs. 60,000",13 inch - 14 inch,Non-Touch,8 GB,1 GHZ - 2 GHZ,Intel,Intel i5,Intel Graphics,SSD,None,512 GB,"Windows, Linux",524
+3/29/2022 17:27:49,ch19btech11010@iith.ac.in,UG,HP,"Rs. 70,000 - Rs. 80,000",14 inch - 15 inch,Non-Touch,8 GB,3 GHZ and above,Intel,Intel i5,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,Windows,807
+3/29/2022 17:28:47,me18btech11020@iith.ac.in,UG,Lenovo,"Rs. 40,000 - Rs. 50,000",14 inch - 15 inch,Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i3,Intel Graphics,HDD,500 GB,None,Linux,341
+3/29/2022 17:29:36,ma20btech11006@iith.ac.in,UG,Apple,"Rs. 90,000 and above",13 inch - 14 inch,Non-Touch,16 GB,3 GHZ and above,Apple,M1,Apple M1 GPU,SSD,None,512 GB,MacOS,586
+3/29/2022 17:31:22,ma20mscst11017@iith.ac.in,PG,Asus,"Rs. 40,000 - Rs. 50,000",13 inch - 14 inch,Non-Touch,8 GB,Not sure,Intel,Intel i5,Intel Graphics,Hybrid (Both SSD and HDD),1 TB,512 GB,Windows,423
+3/29/2022 17:32:30,cs18btech11048@iith.ac.in,UG,Lenovo,"Rs. 60,000 - Rs. 70,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Nvidia Graphics,HDD,2 TB,None,Windows,688
+3/29/2022 17:34:56,ch20btech11013@iith.ac.in,UG,Acer,"Rs. 90,000 and above",15 inch - 16 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Nvidia Graphics,SSD,None,1 TB,Windows,45
+3/29/2022 17:35:04,ai20btech11012@iith.ac.in,UG,Apple,"Rs. 90,000 and above",12 inch - 13 inch,Non-Touch,8 GB,3 GHZ and above,Apple,M1,Apple M1 GPU,Hybrid (Both SSD and HDD),None,512 GB,MacOS,659
+3/29/2022 17:36:05,ee19btech11038@iith.ac.in,UG,Lenovo,"Rs. 40,000 - Rs. 50,000",14 inch - 15 inch,Non-Touch,24 GB,2 GHZ - 3 GHZ,Intel,Intel i5,AMD Radeon Graphics,Hybrid (Both SSD and HDD),2 TB,256 GB,Linux,211
+3/29/2022 17:38:05,ai21mtech12003@iith.ac.in,PG,HP,"Rs. 70,000 - Rs. 80,000",14 inch - 15 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Nvidia Graphics,SSD,None,512 GB,Windows,386
+3/29/2022 17:38:44,ee17resch11004@iith.ac.in,PhD,Apple,"Rs. 70,000 - Rs. 80,000",12 inch - 13 inch,Non-Touch,8 GB,1 GHZ - 2 GHZ,Intel,Intel i5,Intel Graphics,SSD,None,128 GB,MacOS,479
+3/29/2022 17:39:17,ce19btech11027@iith.ac.in,UG,Dell,"Rs. 90,000 and above",14 inch - 15 inch,Touch,32 GB,3 GHZ and above,Intel,Intel i9,Nvidia Graphics,SSD,None,1 TB,"Windows, Linux",595
+3/29/2022 17:39:45,ch20btech11007@iith.ac.in,UG,HP,"Rs. 40,000 - Rs. 50,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,AMD,AMD Ryzen 5,AMD Radeon Graphics,HDD,1 TB,None,Windows,57
+4/20/2022 12:56:56,ce20btech11001@iith.ac.in,UG,Apple,"Rs. 90,000 and above",12 inch - 13 inch,Non-Touch,8 GB,Not sure,Intel,Intel i3,None,SSD,None,128 GB,MacOS,122
+3/29/2022 17:44:04,ce18btech11004@iith.ac.in,UG,HP,"Rs. 50,000 - Rs. 60,000",15 inch - 16 inch,Non-Touch,16 GB,1 GHZ - 2 GHZ,Intel,Intel i5,AMD Radeon Graphics,Hybrid (Both SSD and HDD),1 TB,512 GB,"Windows, Linux",593
+3/29/2022 17:48:42,ch19btech11004@iith.ac.in,UG,Asus,"Rs. 80,000 - Rs. 90,000",14 inch - 15 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i7,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,Windows,214
+3/29/2022 17:49:00,ep18btech11012@iith.ac.in,UG,Lenovo,"Rs. 50,000 - Rs. 60,000",14 inch - 15 inch,Non-Touch,8 GB,Not sure,Intel,Intel i5,Nvidia Graphics,SSD,None,1 TB,"Windows, Linux",781
+3/29/2022 17:51:50,es20btech11021@iith.ac.in,UG,Asus,"Rs. 50,000 - Rs. 60,000",13 inch - 14 inch,Non-Touch,8 GB,1 GHZ - 2 GHZ,Intel,Intel i5,Intel Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,"Windows, Linux",380
+3/29/2022 17:57:59,am21mtech14001@iith.ac.in,PG,Lenovo,"Rs. 90,000 and above",15 inch - 16 inch,Non-Touch,8 GB,3 GHZ and above,AMD,AMD Ryzen 7,Nvidia Graphics,SSD,None,512 GB,Windows,392
+3/29/2022 18:02:18,ai20btech11004@iith.ac.in,UG,HP,"Rs. 60,000 - Rs. 70,000",15 inch - 16 inch,Non-Touch,8 GB,3 GHZ and above,AMD,AMD Ryzen 5,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,"Windows, Linux",47
+3/29/2022 18:09:39,cs20mtech11006@iith.ac.in,PG,Acer,"Rs. 50,000 - Rs. 60,000",14 inch - 15 inch,Non-Touch,8 GB,3 GHZ and above,AMD,AMD Ryzen 5,AMD Radeon Graphics,SSD,None,512 GB,"Windows, Linux",101
+3/29/2022 18:12:27,ch19btech11031@iith.ac.in,UG,HP,"Rs. 50,000 - Rs. 60,000",16 inch - 17 inch,Non-Touch,8 GB,1 GHZ - 2 GHZ,Intel,Intel i5,Nvidia Graphics,HDD,1 TB,None,"Windows, Linux",101
+3/29/2022 18:13:10,es20btech11005@iith.ac.in,UG,Dell,"Rs. 60,000 - Rs. 70,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Nvidia Graphics,SSD,None,512 GB,Windows,264
+3/29/2022 18:15:52,bo22resch01003@iith.ac.in,PhD,HP,"Rs. 40,000 - Rs. 50,000",14 inch - 15 inch,Non-Touch,8 GB,Not sure,Intel,Intel i3,Intel Graphics,HDD,1 TB,None,Windows,88
+3/29/2022 18:18:16,la22resch01003@iith.ac.in,PhD,Dell,"Rs. 40,000 - Rs. 50,000",12 inch - 13 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i3,None,Hybrid (Both SSD and HDD),500 GB,128 GB,Windows,660
+3/29/2022 18:24:10,ai20mtech01002@iith.ac.in,PG,Dell,"Rs. 90,000 and above",12 inch - 13 inch,Non-Touch,8 GB,1 GHZ - 2 GHZ,Intel,Intel i5,None,SSD,500 GB,512 GB,Windows,754
+3/29/2022 18:29:23,ai20mtech14005@iith.ac.in,PG,Lenovo,"Rs. 90,000 and above",14 inch - 15 inch,Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i7,Intel Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,Windows,228
+3/29/2022 18:32:29,ai19btech11004@iith.ac.in,UG,Lenovo,"Rs. 60,000 - Rs. 70,000",13 inch - 14 inch,Non-Touch,16 GB,1 GHZ - 2 GHZ,Intel,Intel i7,AMD Radeon Graphics,SSD,None,512 GB,"Windows, Linux",297
+3/29/2022 18:32:35,cs19btech11012@iith.ac.in,UG,Dell,"Rs. 70,000 - Rs. 80,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,AMD Radeon Graphics,HDD,2 TB,None,"Windows, Linux",519
+3/29/2022 18:40:07,cs19btech11039@iith.ac.in,UG,Asus,"Rs. 60,000 - Rs. 70,000",13 inch - 14 inch,Non-Touch,8 GB,1 GHZ - 2 GHZ,Intel,Intel i5,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,"Windows, Linux",425
+3/29/2022 18:40:10,ch19btech11009@iith.ac.in,UG,HP,"Rs. 60,000 - Rs. 70,000",14 inch - 15 inch,Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,None,SSD,None,512 GB,Windows,591
+3/29/2022 18:41:31,cs16btech11028@iith.ac.in,UG,Asus,"Rs. 90,000 and above",14 inch - 15 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i7,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,"Windows, Linux",33
+3/29/2022 18:43:16,ph20mscst11006@iith.ac.in,PG,Acer,"Rs. 30,000 - Rs. 40,000",13 inch - 14 inch,Non-Touch,4 GB,Not sure,Intel,PENTIUM,Intel Graphics,HDD,500 GB,None,"Windows, Linux",113
+3/29/2022 18:44:24,me18btech11053@iith.ac.in,UG,HP,"Rs. 40,000 - Rs. 50,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,None,HDD,1 TB,None,"Windows, Linux",184
+3/29/2022 18:46:25,ee20btech11060@iith.ac.in,UG,Asus,"Rs. 60,000 - Rs. 70,000",14 inch - 15 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Nvidia Graphics,SSD,None,1 TB,Windows,60
+3/29/2022 18:46:31,md21mdes14036@iith.ac.in,PG,Lenovo,"Rs. 50,000 - Rs. 60,000",14 inch - 15 inch,Non-Touch,8 GB,3 GHZ and above,Intel,Intel i5,Nvidia Graphics,HDD,1 TB,None,Windows,91
+3/29/2022 18:58:19,me21mtech02001@iith.ac.in,PG,HP,"Rs. 70,000 - Rs. 80,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,AMD,AMD Ryzen 7,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,Windows,570
+3/29/2022 19:03:38,ph20mscst11001@iith.ac.in,PG,HP,"Rs. 50,000 - Rs. 60,000",12 inch - 13 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Intel Graphics,SSD,None,512 GB,"Windows, Linux",48
+3/29/2022 19:04:03,ms20btech11014@iith.ac.in,UG,Dell,"Rs. 80,000 - Rs. 90,000",15 inch - 16 inch,Non-Touch,8 GB,1 GHZ - 2 GHZ,Intel,Intel i7,Nvidia Graphics,SSD,None,1 TB,Windows,286
+3/29/2022 19:05:23,ep19btech11020@iith.ac.in,UG,Dell,"Rs. 50,000 - Rs. 60,000",15 inch - 16 inch,Non-Touch,8 GB,Not sure,Intel,Intel i5,AMD Radeon Graphics,HDD,2 TB,None,"Windows, Linux",321
+3/29/2022 19:14:24,me20btech11054@iith.ac.in,UG,HP,"Rs. 70,000 - Rs. 80,000",13 inch - 14 inch,Touch,8 GB,3 GHZ and above,AMD,AMD Ryzen 5,AMD Radeon Graphics,SSD,None,512 GB,Windows,287
+3/29/2022 19:19:33,cs19btech11034@iith.ac.in,UG,Dell,"Rs. 60,000 - Rs. 70,000",15 inch - 16 inch,Non-Touch,12 GB,3 GHZ and above,Intel,Intel i5,Nvidia Graphics,HDD,1 TB,None,"Windows, Linux",436
+3/29/2022 19:37:57,cs19btech11037@iith.ac.in,UG,Acer,"Rs. 90,000 and above",15 inch - 16 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i7,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,Windows,415
+3/29/2022 19:46:43,me20btech11058@iith.ac.in,UG,Asus,"Rs. 80,000 - Rs. 90,000",14 inch - 15 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i7,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,"Windows, Linux",667
+3/29/2022 19:58:41,ai20btech11025@iith.ac.in,UG,Dell,"Rs. 70,000 - Rs. 80,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Nvidia Graphics,SSD,None,512 GB,Windows,339
+3/29/2022 19:59:20,sm21mtech12012@iith.ac.in,PG,Lenovo,"Rs. 70,000 - Rs. 80,000",13 inch - 14 inch,Non-Touch,16 GB,3 GHZ and above,AMD,AMD Ryzen 7,Nvidia Graphics,SSD,None,512 GB,Windows,637
+3/29/2022 20:02:36,ch21resch01008@iith.ac.in,PhD,Acer,"Rs. 60,000 - Rs. 70,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Nvidia Graphics,SSD,None,512 GB,Windows,839
+3/29/2022 20:20:37,ee20btech11044@iith.ac.in,UG,Lenovo,"Rs. 60,000 - Rs. 70,000",13 inch - 14 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i7,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,512 GB,"Windows, Linux",600
+3/29/2022 20:32:55,mi21mtech11003@iith.ac.in,PG,Asus,"Rs. 70,000 - Rs. 80,000",14 inch - 15 inch,Non-Touch,8 GB,1 GHZ - 2 GHZ,Intel,Intel i5,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,Windows,367
+3/29/2022 20:36:17,bm21resch14002@iith.ac.in,PhD,Apple,"Rs. 90,000 and above",12 inch - 13 inch,Non-Touch,16 GB,Not sure,Apple,M1,Apple M1 GPU,SSD,None,512 GB,MacOS,464
+3/29/2022 20:59:59,la20resch11001@iith.ac.in,PhD,HP,"Rs. 50,000 - Rs. 60,000",14 inch - 15 inch,Non-Touch,16 GB,1 GHZ - 2 GHZ,Intel,Intel i3,Intel Graphics,SSD,None,256 GB,Windows,419
+3/29/2022 21:02:23,ce20btech11027@iith.ac.in,UG,HP,"Rs. 40,000 - Rs. 50,000",15 inch - 16 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,AMD,AMD Ryzen 5,AMD Radeon Graphics,SSD,1 TB,128 GB,Windows,320
+3/29/2022 21:02:38,ph20mscst11018@iith.ac.in,PG,Acer,"Rs. 50,000 - Rs. 60,000",13 inch - 14 inch,Non-Touch,8 GB,Not sure,Intel,Intel i5,Intel Graphics,SSD,None,512 GB,"Windows, Linux",817
+3/29/2022 21:28:26,ms19btech11002@iith.ac.in,UG,Acer,"Rs. 50,000 - Rs. 60,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Nvidia Graphics,HDD,1 TB,128 GB,Windows,451
+3/29/2022 21:28:50,ch20btech11033@iith.ac.in,UG,Dell,"Rs. 60,000 - Rs. 70,000",13 inch - 14 inch,Touch,8 GB,3 GHZ and above,Intel,Intel i5,Nvidia Graphics,SSD,None,512 GB,"Windows, Linux",165
+3/29/2022 21:30:01,ms18btech11019@iith.ac.in,UG,Asus,"Rs. 90,000 and above",14 inch - 15 inch,Non-Touch,16 GB,3 GHZ and above,AMD,AMD Ryzen 9,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,512 GB,Windows,844
+3/29/2022 21:59:08,ai21mtech13008@iith.ac.in,PG,Apple,"Rs. 80,000 - Rs. 90,000",14 inch - 15 inch,Touch,8 GB,3 GHZ and above,Apple,M1,Apple M1 GPU,HDD,1 TB,None,MacOS,282
+3/29/2022 22:13:52,ai20btech11002@iith.ac.in,UG,Dell,"Rs. 90,000 and above",15 inch - 16 inch,Non-Touch,32 GB,Not sure,Intel,Intel i7,Nvidia Graphics,SSD,None,1 TB,Windows,655
+3/29/2022 22:17:34,ce19mtech11022@iith.ac.in,PG,HP,"Rs. 40,000 - Rs. 50,000",14 inch - 15 inch,Non-Touch,8 GB,1 GHZ - 2 GHZ,Intel,Intel i3,Nvidia Graphics,HDD,1 TB,None,Windows,178
+3/29/2022 22:18:45,em21resch01001@iith.ac.in,PhD,Acer,"Rs. 40,000 - Rs. 50,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Nvidia Graphics,HDD,1 TB,None,Windows,237
+3/29/2022 23:20:15,ma19btech11011@iith.ac.in,UG,Dell,"Rs. 50,000 - Rs. 60,000",12 inch - 13 inch,Touch,8 GB,Not sure,Intel,Intel i5,Intel Graphics,SSD,None,256 GB,Windows,491
+3/29/2022 23:42:21,me19btech11047@iith.ac.in,UG,HP,"Rs. 40,000 - Rs. 50,000",13 inch - 14 inch,Non-Touch,8 GB,Not sure,Intel,Intel i5,None,HDD,1 TB,None,"Windows, Linux",840
+3/30/2022 1:54:38,ep20btech11012@iith.ac.in,UG,Apple,"Rs. 90,000 and above",13 inch - 14 inch,Non-Touch,8 GB,3 GHZ and above,Apple,M1,Apple M1 GPU,SSD,None,512 GB,MacOS,218
+3/30/2022 2:17:06,ph20mscst11015@iith.ac.in,PG,HP,"Rs. 50,000 - Rs. 60,000",13 inch - 14 inch,Non-Touch,8 GB,1 GHZ - 2 GHZ,Intel,Intel i5,Intel Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,"Windows, Linux",164
+3/30/2022 4:38:21,ep19btech11001@iith.ac.in,UG,Asus,"Rs. 90,000 and above",14 inch - 15 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,Windows,106
+3/30/2022 8:39:11,me20resch11001@iith.ac.in,PhD,Lenovo,"Rs. 60,000 - Rs. 70,000",14 inch - 15 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,AMD,AMD Ryzen 5,AMD Radeon Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,Windows,448
+3/30/2022 9:42:03,ce20btech11038@iith.ac.in,UG,Asus,"Rs. 50,000 - Rs. 60,000",14 inch - 15 inch,Non-Touch,8 GB,Not sure,Intel,Intel i5,Intel Graphics,Hybrid (Both SSD and HDD),1 TB,512 GB,Windows,338
+3/30/2022 9:44:16,ep20btech11006@iith.ac.in,UG,HP,"Rs. 80,000 - Rs. 90,000",13 inch - 14 inch,Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i7,Nvidia Graphics,SSD,None,512 GB,Windows,80
+3/30/2022 11:33:46,ch18btech11007@iith.ac.in,UG,Dell,"Rs. 60,000 - Rs. 70,000",13 inch - 14 inch,Touch,8 GB,3 GHZ and above,Intel,Intel i5,Intel Graphics,HDD,2 TB,None,"Windows, Linux",612
+3/30/2022 18:17:10,ma20btech11013@iith.ac.in,UG,Asus,"Rs. 90,000 and above",14 inch - 15 inch,Non-Touch,16 GB,3 GHZ and above,Intel,Intel i7,Nvidia Graphics,SSD,None,1 TB,"Windows, Linux",848
+3/31/2022 10:53:28,ai20btech11014@iith.ac.in,UG,Dell,"Rs. 70,000 - Rs. 80,000",14 inch - 15 inch,Non-Touch,16 GB,1 GHZ - 2 GHZ,Intel,Intel i5,Intel Graphics,SSD,None,512 GB,Windows,700
+3/31/2022 10:54:38,me20btech11014@iith.ac.in,UG,HP,"Rs. 90,000 and above",14 inch - 15 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i7,Nvidia Graphics,SSD,None,1 TB,Windows,817
+3/31/2022 13:42:54,ma20btech11022@iith.ac.in,UG,Asus,"Rs. 90,000 and above",15 inch - 16 inch,Non-Touch,16 GB,3 GHZ and above,Intel,Intel i7,Nvidia Graphics,SSD,None,2 TB,Windows,562
+4/22/2022 14:41:22,ai20btech11010@iith.ac.in,UG,Dell,"Rs. 90,000 and above",15 inch - 16 inch,Non-Touch,32 GB,Not sure,Intel,Intel i3,None,Hybrid (Both SSD and HDD),500 GB,512 GB,"Windows, Linux",607
+4/8/2022 9:12:00,ma20btech11004@iith.ac.in,UG,HP,"Rs. 70,000 - Rs. 80,000",14 inch - 15 inch,Touch,16 GB,Not sure,Intel,Intel i7,None,Hybrid (Both SSD and HDD),None,128 GB,Windows,672
+4/19/2022 17:37:04,ch20btech11001@iith.ac.in,UG,HP,"Rs. 50,000 - Rs. 60,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,AMD,AMD Ryzen 5,AMD Radeon Graphics,SSD,None,512 GB,Windows,329
+4/19/2022 17:37:20,ai20btech11018@iith.ac.in,UG,HP,"Rs. 60,000 - Rs. 70,000",14 inch - 15 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Nvidia Graphics,SSD,None,512 GB,"Windows, Linux",135
+4/19/2022 17:37:48,la21ma11007@iith.ac.in,PG,HP,"Rs. 40,000 - Rs. 50,000",13 inch - 14 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,AMD,AMD Ryzen 5,AMD Radeon Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,"Windows, Linux",900
+4/19/2022 17:37:58,ch20btech11023@iith.ac.in,UG,Dell,"Rs. 50,000 - Rs. 60,000",13 inch - 14 inch,Non-Touch,8 GB,3 GHZ and above,Intel,Intel i5,Nvidia Graphics,SSD,None,512 GB,Windows,866
+4/19/2022 17:37:58,ma20btech11018@iith.ac.in,UG,HP,"Rs. 80,000 - Rs. 90,000",15 inch - 16 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i7,Nvidia Graphics,SSD,None,512 GB,Windows,566
+4/19/2022 17:38:15,cm21mtech15006@iith.ac.in,PG,Asus,"Rs. 70,000 - Rs. 80,000",14 inch - 15 inch,Non-Touch,16 GB,3 GHZ and above,Intel,Intel i7,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,128 GB,Windows,545
+4/19/2022 17:38:20,ma19btech11003@iith.ac.in,UG,HP,"Rs. 70,000 - Rs. 80,000",13 inch - 14 inch,Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i7,Intel Graphics,SSD,None,512 GB,"Windows, Linux",779
+4/19/2022 17:38:32,ch20btech11020@iith.ac.in,UG,Dell,"Rs. 60,000 - Rs. 70,000",14 inch - 15 inch,Non-Touch,8 GB,Not sure,Intel,Intel i5,None,SSD,None,512 GB,Windows,642
+4/19/2022 17:38:38,ms20mtech14001@iith.ac.in,PG,Lenovo,"Rs. 40,000 - Rs. 50,000",15 inch - 16 inch,Non-Touch,12 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Nvidia Graphics,SSD,None,512 GB,Windows,748
+4/19/2022 17:38:45,cs20btech11047@iith.ac.in,UG,HP,"Rs. 50,000 - Rs. 60,000",14 inch - 15 inch,Non-Touch,8 GB,3 GHZ and above,Intel,Intel i5,Intel Graphics,SSD,None,512 GB,"Windows, Linux, MacOS",741
+4/19/2022 17:38:45,ee19btech11024@iith.ac.in,UG,Dell,"Rs. 90,000 and above",12 inch - 13 inch,Touch,16 GB,3 GHZ and above,Intel,Intel i7,Intel Graphics,SSD,None,256 GB,"Windows, Linux",207
+4/19/2022 17:38:53,es19btech11030@iith.ac.in,UG,Lenovo,"Rs. 70,000 - Rs. 80,000",15 inch - 16 inch,Non-Touch,8 GB,3 GHZ and above,AMD,AMD Ryzen 5,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,128 GB,"Windows, Linux",284
+4/19/2022 17:38:57,ce21mtech11015@iith.ac.in,PG,HP,"Rs. 40,000 - Rs. 50,000",14 inch - 15 inch,Non-Touch,4 GB,2 GHZ - 3 GHZ,Intel,Intel i3,AMD Radeon Graphics,Hybrid (Both SSD and HDD),500 GB,128 GB,Windows,300
+4/19/2022 17:38:59,cy21resch11018@iith.ac.in,PhD,Dell,"Rs. 50,000 - Rs. 60,000",15 inch - 16 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,None,Hybrid (Both SSD and HDD),1 TB,256 GB,Windows,876
+4/19/2022 17:39:39,ee18btech11040@iith.ac.in,UG,Dell,"Rs. 50,000 - Rs. 60,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i7,Nvidia Graphics,HDD,500 GB,None,Windows,574
+4/19/2022 17:39:56,la21resch11002@iith.ac.in,PhD,Dell,"Rs. 40,000 - Rs. 50,000",14 inch - 15 inch,Non-Touch,32 GB,Not sure,Intel,Intel i3,Intel Graphics,HDD,500 GB,None,Windows,733
+4/19/2022 17:40:06,ee20mtech14004@iith.ac.in,PG,Lenovo,"Rs. 90,000 and above",15 inch - 16 inch,Non-Touch,16 GB,3 GHZ and above,AMD,AMD Ryzen 7,Nvidia Graphics,SSD,None,1 TB,Windows,222
+4/19/2022 17:40:38,cs19btech11024@iith.ac.in,UG,Dell,"Rs. 60,000 - Rs. 70,000",14 inch - 15 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Nvidia Graphics,SSD,None,512 GB,Windows,790
+4/19/2022 17:40:43,ai21mtech14006@iith.ac.in,PG,Dell,"Rs. 90,000 and above",13 inch - 14 inch,Touch,16 GB,1 GHZ - 2 GHZ,Intel,Intel i7,Intel Graphics,SSD,None,512 GB,"Windows, Linux",593
+4/19/2022 17:40:43,sm20mtech12010@iith.ac.in,PG,HP,"Rs. 50,000 - Rs. 60,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,AMD,AMD Ryzen 5,Nvidia Graphics,HDD,1 TB,None,Windows,65
+4/19/2022 17:41:16,ch20btech11031@iith.ac.in,UG,Apple,"Rs. 70,000 - Rs. 80,000",13 inch - 14 inch,Non-Touch,8 GB,3 GHZ and above,Apple,M1,Apple M1 GPU,SSD,None,256 GB,MacOS,79
+4/19/2022 17:41:19,ai20btech11028@iith.ac.in,UG,Lenovo,"Rs. 70,000 - Rs. 80,000",14 inch - 15 inch,Non-Touch,8 GB,Not sure,Intel,Intel i5,Nvidia Graphics,Hybrid (Both SSD and HDD),500 GB,256 GB,"Windows, Linux",186
+4/19/2022 17:41:37,ch18btech11010@iith.ac.in,UG,Dell,"Rs. 40,000 - Rs. 50,000",15 inch - 16 inch,Non-Touch,8 GB,3 GHZ and above,Intel,Intel i7,Nvidia Graphics,SSD,None,512 GB,Windows,451
+4/19/2022 17:41:47,bm20mtech11005@iith.ac.in,PG,Apple,"Rs. 90,000 and above",13 inch - 14 inch,Non-Touch,8 GB,1 GHZ - 2 GHZ,Intel,Intel i3,Intel Graphics,SSD,None,256 GB,MacOS,103
+4/19/2022 17:42:10,cs20btech11029@iith.ac.in,UG,Dell,"Rs. 90,000 and above",14 inch - 15 inch,Non-Touch,16 GB,Not sure,Intel,Intel i7,Nvidia Graphics,SSD,None,1 TB,"Windows, Linux",844
+4/19/2022 17:42:24,bm21resch01003@iith.ac.in,PhD,Lenovo,"Rs. 60,000 - Rs. 70,000",14 inch - 15 inch,Non-Touch,32 GB,3 GHZ and above,Intel,AMD Ryzen 9,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,512 GB,Linux,773
+4/19/2022 17:43:04,cy21mscst11023@iith.ac.in,PG,Dell,"Rs. 60,000 - Rs. 70,000",14 inch - 15 inch,Non-Touch,8 GB,3 GHZ and above,Intel,Intel i5,None,SSD,None,512 GB,Windows,74
+4/19/2022 17:43:16,bm17resch01009@iith.ac.in,PhD,Acer,"Rs. 30,000 - Rs. 40,000",14 inch - 15 inch,Non-Touch,8 GB,1 GHZ - 2 GHZ,Intel,dual core intel,None,HDD,500 GB,None,Windows,233
+4/19/2022 17:43:20,ma21btech11003@iith.ac.in,UG,HP,"Rs. 90,000 and above",15 inch - 16 inch,Non-Touch,16 GB,3 GHZ and above,Intel,Intel i7,Nvidia Graphics,SSD,None,512 GB,Windows,485
+4/19/2022 17:43:31,es19btech11014@iith.ac.in,UG,HP,"Rs. 60,000 - Rs. 70,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,"Windows, Linux",410
+4/19/2022 17:43:36,cs20btech11027@iith.ac.in,UG,Dell,"Rs. 60,000 - Rs. 70,000",14 inch - 15 inch,Non-Touch,8 GB,3 GHZ and above,Intel,Intel i5,Nvidia Graphics,HDD,500 GB,None,"Windows, Linux",635
+4/19/2022 17:43:38,bm20btech11004@iith.ac.in,UG,Lenovo,"Rs. 80,000 - Rs. 90,000",14 inch - 15 inch,Non-Touch,16 GB,Not sure,AMD,AMD Ryzen 7,Nvidia Graphics,SSD,None,512 GB,Windows,251
+4/19/2022 17:44:04,cs21mtech12008@iith.ac.in,PG,HP,"Rs. 60,000 - Rs. 70,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Nvidia Graphics,HDD,2 TB,None,Linux,151
+4/19/2022 17:44:26,ma18btech11009@iith.ac.in,UG,Lenovo,"Rs. 50,000 - Rs. 60,000",15 inch - 16 inch,Non-Touch,8 GB,1 GHZ - 2 GHZ,Intel,Intel i5,Intel Graphics,HDD,1 TB,None,Windows,416
+4/19/2022 17:45:26,ee20btech11047@iith.ac.in,UG,Dell,"Rs. 70,000 - Rs. 80,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,Windows,652
+4/19/2022 17:46:12,ma19btech11001@iith.ac.in,UG,Apple,"Rs. 90,000 and above",14 inch - 15 inch,Non-Touch,16 GB,3 GHZ and above,Apple,M1,Apple M1 GPU,Hybrid (Both SSD and HDD),1 TB,512 GB,MacOS,401
+4/19/2022 17:46:22,cc21resch16001@iith.ac.in,PhD,Asus,"Rs. 50,000 - Rs. 60,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,AMD,AMD Ryzen 5,AMD Radeon Graphics,SSD,1 TB,256 GB,Windows,287
+4/19/2022 17:46:36,ee21mtech14015@iith.ac.in,PG,Lenovo,"Rs. 40,000 - Rs. 50,000",12 inch - 13 inch,Non-Touch,4 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Nvidia Graphics,SSD,None,256 GB,Windows,384
+4/19/2022 17:47:22,ee19btech11041@iith.ac.in,UG,Dell,"Rs. 50,000 - Rs. 60,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,AMD Radeon Graphics,HDD,2 TB,None,"Windows, Linux",883
+4/19/2022 17:47:54,ep20btech11011@iith.ac.in,UG,HP,"Rs. 60,000 - Rs. 70,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,AMD,AMD Ryzen 5,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,"Windows, Linux",209
+4/19/2022 17:48:04,ep20btech11015@iith.ac.in,UG,Lenovo,"Rs. 90,000 and above",15 inch - 16 inch,Non-Touch,48 GB,3 GHZ and above,Intel,Intel i9,Nvidia Graphics,SSD,None,2 TB,"Windows, Linux, MacOS",73
+4/19/2022 17:48:23,cs21resch11009@iith.ac.in,PhD,Lenovo,"Rs. 90,000 and above",15 inch - 16 inch,Non-Touch,24 GB,3 GHZ and above,AMD,AMD Ryzen 7,AMD Radeon Graphics,SSD,None,1 TB,"Windows, Linux",882
+4/19/2022 17:49:20,es20btech11017@iith.ac.in,UG,Dell,"Rs. 50,000 - Rs. 60,000",14 inch - 15 inch,Non-Touch,8 GB,Not sure,Intel,Intel i5,Intel Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,Windows,149
+4/19/2022 17:49:23,ee20btech11013@iith.ac.in,UG,Lenovo,"Rs. 90,000 and above",15 inch - 16 inch,Touch,12 GB,1 GHZ - 2 GHZ,Intel,Intel i5,Intel Graphics,SSD,None,256 GB,Windows,724
+4/19/2022 17:49:26,ch21btech11012@iith.ac.in,UG,HP,"Rs. 30,000 - Rs. 40,000",12 inch - 13 inch,Non-Touch,8 GB,Not sure,Intel,Intel i5,None,SSD,None,256 GB,Windows,791
+4/19/2022 17:51:58,ma21btech11020@iith.ac.in,UG,Asus,"Rs. 30,000 - Rs. 40,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,AMD,AMD Ryzen 5,AMD Radeon Graphics,SSD,None,512 GB,Windows,699
+4/19/2022 17:52:14,mi21mtech14001@iith.ac.in,PG,HP,"Rs. 50,000 - Rs. 60,000",14 inch - 15 inch,Non-Touch,8 GB,Not sure,Intel,Intel i5,Intel Graphics,HDD,500 GB,None,Windows,626
+4/19/2022 17:52:15,ee20mtech12003@iith.ac.in,PG,Lenovo,"Rs. 90,000 and above",16 inch - 17 inch,Non-Touch,32 GB,3 GHZ and above,AMD,AMD Ryzen 9,AMD Radeon Graphics,SSD,None,1 TB,"Windows, Linux",365
+4/19/2022 17:52:47,sm21mtech14003@iith.ac.in,PG,Lenovo,"Rs. 60,000 - Rs. 70,000",15 inch - 16 inch,Non-Touch,16 GB,3 GHZ and above,Intel,Intel i5,Nvidia Graphics,SSD,None,512 GB,Windows,401
+4/19/2022 17:53:22,ma20btech11016@iith.ac.in,UG,MSI,"Rs. 90,000 and above",15 inch - 16 inch,Non-Touch,16 GB,3 GHZ and above,Intel,Intel i7,Nvidia Graphics,SSD,None,512 GB,Windows,473
+4/19/2022 17:53:52,ep21btech11013@iith.ac.in,UG,HP,"Rs. 30,000 - Rs. 40,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,AMD,Radeon A-8 7410 APU,AMD Radeon Graphics,HDD,1 TB,None,Windows,824
+4/19/2022 17:53:54,ms18btech11007@iith.ac.in,UG,Lenovo,"Rs. 60,000 - Rs. 70,000",14 inch - 15 inch,Non-Touch,8 GB,1 GHZ - 2 GHZ,Intel,Intel i5,Nvidia Graphics,HDD,1 TB,None,"Windows, Linux",299
+4/19/2022 17:54:15,cs20btech11016@iith.ac.in,UG,Lenovo,"Rs. 40,000 - Rs. 50,000",15 inch - 16 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,AMD,AMD Ryzen 5,AMD Radeon Graphics,SSD,None,512 GB,"Windows, Linux",457
+4/19/2022 17:55:35,ms18btech11005@iith.ac.in,UG,Dell,"Rs. 70,000 - Rs. 80,000",15 inch - 16 inch,Non-Touch,8 GB,Not sure,Intel,Intel i5,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,128 GB,"Windows, Linux",478
+4/19/2022 17:56:31,ma21btech11010@iith.ac.in,UG,HP,"Rs. 60,000 - Rs. 70,000",12 inch - 13 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Intel Graphics,SSD,None,512 GB,Windows,134
+4/19/2022 17:56:35,es19btech11021@iith.ac.in,UG,Apple,"Rs. 90,000 and above",15 inch - 16 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i7,AMD Radeon Graphics,SSD,None,512 GB,MacOS,883
+4/19/2022 17:58:20,ma21btech11017@iith.ac.in,UG,Asus,"Rs. 70,000 - Rs. 80,000",15 inch - 16 inch,Non-Touch,8 GB,3 GHZ and above,AMD,AMD Ryzen 7,Nvidia Graphics,SSD,None,512 GB,Windows,536
+4/19/2022 17:58:36,me20btech11004@iith.ac.in,UG,Asus,"Rs. 70,000 - Rs. 80,000",14 inch - 15 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i7,Nvidia Graphics,Hybrid (Both SSD and HDD),500 GB,256 GB,Windows,331
+4/19/2022 17:58:37,me20btech11019@iith.ac.in,UG,Asus,"Rs. 60,000 - Rs. 70,000",15 inch - 16 inch,Non-Touch,8 GB,Not sure,AMD,AMD Ryzen 7,Nvidia Graphics,SSD,None,512 GB,"Windows, Linux",676
+4/19/2022 17:59:05,ep21btech11017@iith.ac.in,UG,Acer,"Rs. 40,000 - Rs. 50,000",14 inch - 15 inch,Non-Touch,16 GB,Not sure,Intel,Intel i5,Nvidia Graphics,HDD,1 TB,None,Windows,844
+4/19/2022 17:59:25,cs16btech11009@iith.ac.in,PG,Lenovo,"Rs. 40,000 - Rs. 50,000",14 inch - 15 inch,Non-Touch,8 GB,Not sure,Intel,Intel i5,AMD Radeon Graphics,HDD,500 GB,None,Windows,196
+4/19/2022 17:59:28,ep21btech11006@iith.ac.in,UG,Acer,"Rs. 60,000 - Rs. 70,000",15 inch - 16 inch,Non-Touch,8 GB,3 GHZ and above,Intel,Intel i5,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,Windows,69
+4/19/2022 18:03:55,ep21btech11023@iith.ac.in,UG,Lenovo,"Rs. 40,000 - Rs. 50,000",14 inch - 15 inch,Touch,8 GB,Not sure,Intel,Intel i3,Intel Graphics,Hybrid (Both SSD and HDD),1 TB,128 GB,Windows,50
+4/19/2022 18:04:35,cy21mscst11032@iith.ac.in,PG,Lenovo,"Rs. 40,000 - Rs. 50,000",15 inch - 16 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Intel Graphics,HDD,1 TB,None,Windows,34
+4/19/2022 18:05:10,ma21btech11009@iith.ac.in,UG,Lenovo,"Rs. 60,000 - Rs. 70,000",14 inch - 15 inch,Non-Touch,32 GB,Not sure,Intel,Intel i5,Intel Graphics,SSD,None,512 GB,"Windows, Linux",399
+4/19/2022 18:05:20,ce18btech11028@iith.ac.in,PG,Lenovo,"Rs. 90,000 and above",15 inch - 16 inch,Non-Touch,16 GB,3 GHZ and above,Intel,Intel i7,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,512 GB,Windows,283
+4/19/2022 18:05:56,ep21btech11019@iith.ac.in,UG,Lenovo,"Rs. 90,000 and above",15 inch - 16 inch,Non-Touch,16 GB,3 GHZ and above,Intel,AMD Ryzen 7,AMD Radeon Graphics,SSD,None,1 TB,Windows,604
+4/19/2022 18:06:45,ep21btech11012@iith.ac.in,UG,HP,"Rs. 50,000 - Rs. 60,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,AMD,AMD Ryzen 5,AMD Radeon Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,Windows,216
+4/19/2022 18:08:01,cs20btech11048@iith.ac.in,UG,HP,"Rs. 80,000 - Rs. 90,000",12 inch - 13 inch,Touch,8 GB,2 GHZ - 3 GHZ,AMD,AMD Ryzen 5,AMD Radeon Graphics,SSD,None,512 GB,"Windows, Linux",725
+4/19/2022 18:09:56,ee20btech11038@iith.ac.in,UG,HP,"Rs. 50,000 - Rs. 60,000",14 inch - 15 inch,Non-Touch,8 GB,Not sure,Intel,Intel i5,None,HDD,500 GB,None,Windows,364
+4/19/2022 18:10:14,me20btech11039@iith.ac.in,UG,Lenovo,"Rs. 80,000 - Rs. 90,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,AMD,AMD Ryzen 7,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,Windows,364
+4/19/2022 18:11:57,la17resch11001@iith.ac.in,PhD,Acer,"Rs. 40,000 - Rs. 50,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i7,Intel Graphics,HDD,500 GB,None,Windows,640
+4/19/2022 18:13:29,ep21btech11016@iith.ac.in,UG,Apple,"Rs. 80,000 - Rs. 90,000",13 inch - 14 inch,Non-Touch,8 GB,3 GHZ and above,Apple,M1,Apple M1 GPU,SSD,None,256 GB,MacOS,329
+4/19/2022 18:16:31,cs20btech11063@iith.ac.in,UG,Dell,"Rs. 80,000 - Rs. 90,000",14 inch - 15 inch,Non-Touch,16 GB,Not sure,Intel,Intel i7,Nvidia Graphics,SSD,None,512 GB,Windows,875
+4/19/2022 18:20:54,ep21btech11007@iith.ac.in,UG,Asus,"Rs. 60,000 - Rs. 70,000",13 inch - 14 inch,Non-Touch,8 GB,3 GHZ and above,Intel,Intel i5,Intel Graphics,Hybrid (Both SSD and HDD),500 GB,256 GB,Windows,750
+4/19/2022 18:23:45,cs20mtech01003@iith.ac.in,PG,Acer,"Rs. 60,000 - Rs. 70,000",14 inch - 15 inch,Non-Touch,16 GB,3 GHZ and above,Intel,Intel i5,Nvidia Graphics,SSD,None,1 TB,"Windows, Linux",580
+4/19/2022 18:27:08,cs19mtech11021@iith.ac.in,PG,Lenovo,"Rs. 90,000 and above",16 inch - 17 inch,Non-Touch,32 GB,3 GHZ and above,AMD,AMD Ryzen 7,Nvidia Graphics,SSD,None,1 TB,"Windows, Linux",650
+4/19/2022 18:28:50,ch20btech11011@iith.ac.in,UG,Lenovo,"Rs. 60,000 - Rs. 70,000",13 inch - 14 inch,Non-Touch,16 GB,Not sure,Intel,Intel i5,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,Windows,86
+4/19/2022 18:30:00,ph21mscst11010@iith.ac.in,PG,Asus,"Rs. 60,000 - Rs. 70,000",15 inch - 16 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Nvidia Graphics,SSD,None,512 GB,Windows,120
+4/19/2022 18:31:41,bo20mtech11005@iith.ac.in,PG,Asus,"Rs. 90,000 and above",15 inch - 16 inch,Non-Touch,8 GB,3 GHZ and above,AMD,AMD Ryzen 7,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,Windows,756
+4/19/2022 18:31:50,ee18btech11044@iith.ac.in,UG,Dell,"Rs. 70,000 - Rs. 80,000",15 inch - 16 inch,Non-Touch,8 GB,1 GHZ - 2 GHZ,Intel,Intel i7,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,128 GB,"Windows, Linux",854
+4/19/2022 18:37:23,ep21btech11024@iith.ac.in,UG,HP,"Rs. 90,000 and above",14 inch - 15 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i7,Nvidia Graphics,SSD,None,1 TB,Windows,888
+4/19/2022 18:37:47,ep21btech11021@iith.ac.in,UG,HP,"Rs. 70,000 - Rs. 80,000",14 inch - 15 inch,Non-Touch,8 GB,3 GHZ and above,AMD,AMD Ryzen 5,Nvidia Graphics,Hybrid (Both SSD and HDD),500 GB,1 TB,Windows,451
+4/19/2022 18:45:47,me21mtech14014@iith.ac.in,PG,Apple,"Rs. 90,000 and above",16 inch - 17 inch,Non-Touch,16 GB,3 GHZ and above,Apple,M1,Apple M1 GPU,SSD,None,1 TB,MacOS,536
+4/19/2022 18:50:39,bm20resch11004@iith.ac.in,PhD,Asus,"Rs. 90,000 and above",15 inch - 16 inch,Non-Touch,32 GB,3 GHZ and above,Intel,Intel i7,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,1 TB,"Windows, Linux",609
+4/19/2022 18:51:39,ch19btech11033@iith.ac.in,UG,Acer,"Rs. 80,000 - Rs. 90,000",15 inch - 16 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i7,Nvidia Graphics,SSD,None,256 GB,Windows,486
+4/19/2022 18:56:01,ep21btech11005@iith.ac.in,UG,HP,"Rs. 90,000 and above",15 inch - 16 inch,Non-Touch,16 GB,3 GHZ and above,Intel,Intel i7,Nvidia Graphics,SSD,None,512 GB,Windows,206
+4/19/2022 18:56:07,ai20btech11009@iith.ac.in,UG,HP,"Rs. 90,000 and above",15 inch - 16 inch,Non-Touch,8 GB,Not sure,AMD,AMD Ryzen 5,Nvidia Graphics,SSD,None,256 GB,Windows,746
+4/19/2022 18:58:38,la17resch11006@iith.ac.in,PhD,Acer,"Rs. 40,000 - Rs. 50,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Nvidia Graphics,SSD,None,128 GB,Windows,856
+4/19/2022 19:00:28,ai22mtech02004@iith.ac.in,PG,HP,"Rs. 50,000 - Rs. 60,000",15 inch - 16 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,AMD Radeon Graphics,HDD,1 TB,None,Windows,732
+4/19/2022 19:06:46,la21ma11004@iith.ac.in,PG,Dell,"Rs. 40,000 - Rs. 50,000",12 inch - 13 inch,Non-Touch,4 GB,1 GHZ - 2 GHZ,Intel,Intel i5,Nvidia Graphics,SSD,500 GB,128 GB,Windows,822
+4/19/2022 19:09:06,ep21btech11025@iith.ac.in,UG,Apple,"Rs. 90,000 and above",13 inch - 14 inch,Non-Touch,8 GB,Not sure,Apple,M1,Apple M1 GPU,SSD,None,256 GB,MacOS,823
+4/19/2022 19:10:49,ai20btech11027@iith.ac.in,UG,Lenovo,"Rs. 60,000 - Rs. 70,000",15 inch - 16 inch,Non-Touch,8 GB,Not sure,Intel,Intel i5,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,"Windows, Linux",794
+4/19/2022 19:11:32,ce18btech11019@iith.ac.in,UG,Acer,"Rs. 90,000 and above",15 inch - 16 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i7,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,128 GB,Windows,69
+4/19/2022 19:20:54,md20mdes11002@iith.ac.in,PG,Lenovo,"Rs. 60,000 - Rs. 70,000",15 inch - 16 inch,Non-Touch,16 GB,3 GHZ and above,Intel,Intel i5,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,Windows,516
+4/19/2022 19:23:18,me20btech11045@iith.ac.in,UG,Dell,"Rs. 60,000 - Rs. 70,000",15 inch - 16 inch,Non-Touch,8 GB,3 GHZ and above,Intel,Intel i5,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,Windows,701
+4/19/2022 19:24:08,ai19btech11021@iith.ac.in,UG,Acer,"Rs. 50,000 - Rs. 60,000",15 inch - 16 inch,Non-Touch,8 GB,1 GHZ - 2 GHZ,Intel,Intel i5,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,512 GB,"Windows, Linux",682
+4/19/2022 19:27:26,me20btech11009@iith.ac.in,UG,HP,"Rs. 80,000 - Rs. 90,000",13 inch - 14 inch,Touch,8 GB,Not sure,Intel,Intel i7,None,SSD,None,512 GB,Windows,557
+4/19/2022 19:29:11,ai20resch14002@iith.ac.in,PhD,Dell,"Rs. 50,000 - Rs. 60,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Intel Graphics,HDD,1 TB,None,Windows,460
+4/19/2022 19:31:02,bm21resch11003@iith.ac.in,PhD,Dell,"Rs. 70,000 - Rs. 80,000",15 inch - 16 inch,Non-Touch,16 GB,1 GHZ - 2 GHZ,Intel,Intel i7,Nvidia Graphics,SSD,None,1 TB,Windows,303
+4/19/2022 19:32:45,cs19mtech01006@iith.ac.in,PG,Asus,"Rs. 90,000 and above",13 inch - 14 inch,Non-Touch,16 GB,3 GHZ and above,AMD,AMD Ryzen 5,Nvidia Graphics,SSD,None,1 TB,Windows,246
+4/19/2022 19:37:12,bm20mtech16001@iith.ac.in,PG,HP,"Rs. 30,000 - Rs. 40,000",14 inch - 15 inch,Non-Touch,4 GB,Not sure,Intel,Intel i3,Intel Graphics,HDD,1 TB,None,Windows,548
+4/19/2022 19:45:05,ms18btech11006@iith.ac.in,UG,Asus,"Rs. 50,000 - Rs. 60,000",14 inch - 15 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,AMD,AMD Ryzen 5,Nvidia Graphics,HDD,1 TB,None,Windows,374
+4/19/2022 19:53:51,ai20btech11017@iith.ac.in,UG,Lenovo,"Rs. 60,000 - Rs. 70,000",15 inch - 16 inch,Non-Touch,8 GB,1 GHZ - 2 GHZ,Intel,Intel i5,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,"Windows, Linux",755
+4/19/2022 19:58:45,me20btech11011@iith.ac.in,UG,Asus,"Rs. 80,000 - Rs. 90,000",15 inch - 16 inch,Non-Touch,16 GB,3 GHZ and above,AMD,AMD Ryzen 7,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,Windows,437
+4/19/2022 20:05:23,ph22resch01001@iith.ac.in,PhD,Dell,"Rs. 40,000 - Rs. 50,000",14 inch - 15 inch,Non-Touch,4 GB,2 GHZ - 3 GHZ,Intel,Intel i3,Intel Graphics,HDD,1 TB,None,"Windows, Linux",448
+4/19/2022 20:09:42,me20resch13005@iith.ac.in,PhD,Asus,"Rs. 40,000 - Rs. 50,000",13 inch - 14 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Nvidia Graphics,HDD,1 TB,None,Windows,252
+4/19/2022 20:24:46,ph21mscst11008@iith.ac.in,PG,Lenovo,"Rs. 60,000 - Rs. 70,000",15 inch - 16 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,128 GB,Windows,78
+4/19/2022 21:06:45,cs21mtech11021@iith.ac.in,PG,HP,"Rs. 60,000 - Rs. 70,000",15 inch - 16 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i7,Nvidia Graphics,HDD,1 TB,None,"Windows, Linux",467
+4/19/2022 21:35:17,ee20btech11050@iith.ac.in,UG,Lenovo,"Rs. 60,000 - Rs. 70,000",12 inch - 13 inch,Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i7,Intel Graphics,Hybrid (Both SSD and HDD),500 GB,256 GB,Windows,112
+4/19/2022 21:57:44,ep19btech11014@iith.ac.in,UG,HP,"Rs. 70,000 - Rs. 80,000",15 inch - 16 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i7,Nvidia Graphics,SSD,1 TB,512 GB,Windows,890
+4/19/2022 22:32:55,ee19btech11036@iith.ac.in,UG,Asus,"Rs. 30,000 - Rs. 40,000",13 inch - 14 inch,Non-Touch,8 GB,Not sure,Intel,Intel i5,Nvidia Graphics,HDD,500 GB,None,Windows,467
+4/19/2022 23:50:17,md20mdes11006@iith.ac.in,PG,Dell,"Rs. 30,000 - Rs. 40,000",14 inch - 15 inch,Non-Touch,4 GB,Not sure,Intel,Intel i5,AMD Radeon Graphics,Hybrid (Both SSD and HDD),1 TB,1 TB,Windows,463
+4/20/2022 0:14:22,ph20mscst11004@iith.ac.in,PG,Lenovo,"Rs. 60,000 - Rs. 70,000",15 inch - 16 inch,Non-Touch,8 GB,3 GHZ and above,AMD,AMD Ryzen 5,Nvidia Graphics,SSD,None,512 GB,Windows,669
+4/20/2022 0:30:40,ma21mscst11006@iith.ac.in,PG,HP,"Rs. 50,000 - Rs. 60,000",13 inch - 14 inch,Non-Touch,8 GB,3 GHZ and above,Intel,Intel i5,Intel Graphics,SSD,None,512 GB,Windows,392
+4/20/2022 0:50:52,ce19resch11001@iith.ac.in,PhD,Acer,"Rs. 50,000 - Rs. 60,000",15 inch - 16 inch,Non-Touch,16 GB,3 GHZ and above,Intel,Intel i5,Nvidia Graphics,SSD,None,512 GB,Windows,733
+4/20/2022 2:28:25,bm20resch11009@iith.ac.in,PhD,Dell,"Rs. 90,000 and above",15 inch - 16 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i7,Nvidia Graphics,SSD,None,512 GB,Windows,431
+4/20/2022 7:46:08,ma19btech11010@iith.ac.in,UG,Apple,"Rs. 90,000 and above",13 inch - 14 inch,Non-Touch,8 GB,3 GHZ and above,Apple,M1,Apple M1 GPU,SSD,None,512 GB,MacOS,869
+4/20/2022 7:46:10,me21mtech14001@iith.ac.in,PG,Asus,"Rs. 80,000 - Rs. 90,000",15 inch - 16 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i7,Nvidia Graphics,SSD,None,1 TB,Windows,300
+4/20/2022 8:05:44,me21mtech14009@iith.ac.in,UG,Dell,"Rs. 60,000 - Rs. 70,000",15 inch - 16 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,AMD Radeon Graphics,HDD,2 TB,None,Windows,661
+4/20/2022 8:23:51,cs16btech11008@iith.ac.in,UG,HP,"Rs. 40,000 - Rs. 50,000",13 inch - 14 inch,Non-Touch,4 GB,2 GHZ - 3 GHZ,Intel,Intel i5,None,SSD,None,512 GB,Windows,757
+4/20/2022 8:31:06,cs16btech11007@iith.ac.in,UG,Dell,"Rs. 50,000 - Rs. 60,000",14 inch - 15 inch,Non-Touch,16 GB,Not sure,Intel,Intel i5,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,Windows,192
+4/20/2022 8:31:10,cs16btech11006@iith.ac.in,UG,HP,"Rs. 30,000 - Rs. 40,000",15 inch - 16 inch,Touch,16 GB,3 GHZ and above,Intel,Intel i9,Intel Graphics,Hybrid (Both SSD and HDD),1 TB,512 GB,Windows,796
+4/20/2022 9:04:19,cs16btech11005@iith.ac.in,UG,HP,"Rs. 90,000 and above",13 inch - 14 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i7,Nvidia Graphics,SSD,None,1 TB,Windows,523
+4/20/2022 9:06:34,ai19btech11009@iith.ac.in,UG,Dell,"Rs. 60,000 - Rs. 70,000",15 inch - 16 inch,Non-Touch,16 GB,Not sure,Intel,Intel i5,AMD Radeon Graphics,Hybrid (Both SSD and HDD),2 TB,256 GB,"Windows, Linux",748
+4/20/2022 9:52:40,ma20btech11020@iith.ac.in,UG,Dell,"Rs. 50,000 - Rs. 60,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Intel Graphics,SSD,1 TB,256 GB,Windows,883
+4/20/2022 10:29:22,ep21btech11010@iith.ac.in,UG,Apple,"Rs. 90,000 and above",14 inch - 15 inch,Non-Touch,8 GB,Not sure,Apple,M1,Intel Graphics,HDD,None,None,MacOS,567
+4/20/2022 10:37:31,ai19btech11015@iith.ac.in,UG,Acer,"Rs. 30,000 - Rs. 40,000",15 inch - 16 inch,Non-Touch,8 GB,1 GHZ - 2 GHZ,Intel,Intel i5,Intel Graphics,SSD,None,512 GB,"Windows, Linux",867
+4/20/2022 12:23:48,ee19mtech01008@iith.ac.in,PG,Dell,"Rs. 60,000 - Rs. 70,000",15 inch - 16 inch,Non-Touch,16 GB,3 GHZ and above,Intel,Intel i5,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,128 GB,"Windows, Linux",675
+4/20/2022 12:57:12,cs20btech11020@iith.ac.in,PhD,Xiaomi,"Rs. 30,000 - Rs. 40,000",15 inch - 16 inch,Touch,32 GB,3 GHZ and above,Apple,AMD Ryzen 9,Apple M1 GPU,Hybrid (Both SSD and HDD),1 TB,1 TB,"Windows, Linux, MacOS",624
+4/20/2022 12:58:36,cs21btech11038@iith.ac.in,UG,Dell,"Rs. 60,000 - Rs. 70,000",14 inch - 15 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i7,Nvidia Graphics,SSD,None,512 GB,Windows,635
+4/20/2022 12:59:01,ce20btech11018@IITH.AC.IN,UG,Dell,"Rs. 60,000 - Rs. 70,000",15 inch - 16 inch,Non-Touch,8 GB,Not sure,Intel,Intel i5,Intel Graphics,Hybrid (Both SSD and HDD),1 TB,1 TB,Windows,856
+4/20/2022 13:00:15,ep20btech11024@iith.ac.in,UG,Acer,"Rs. 40,000 - Rs. 50,000",15 inch - 16 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,AMD,AMD Ryzen 5,Nvidia Graphics,SSD,None,512 GB,Windows,165
+4/20/2022 13:02:26,cs16btech11004@iith.ac.in,UG,HP,"Rs. 60,000 - Rs. 70,000",13 inch - 14 inch,Non-Touch,8 GB,Not sure,Intel,Intel i5,Intel Graphics,HDD,None,512 GB,Windows,724
+4/20/2022 13:05:12,cs16btech11003@iith.ac.in,UG,Asus,"Rs. 30,000 - Rs. 40,000",13 inch - 14 inch,Non-Touch,4 GB,Not sure,Intel,Intel i3,None,Hybrid (Both SSD and HDD),1 TB,512 GB,Windows,150
+4/20/2022 13:06:19,cs16btech11002@iith.ac.in,UG,HP,"Rs. 90,000 and above",15 inch - 16 inch,Non-Touch,16 GB,3 GHZ and above,Intel,Intel i7,Intel Graphics,SSD,None,1 TB,"Windows, Linux",525
+4/20/2022 13:06:46,cs16btech11001@iith.ac.in,UG,Apple,"Rs. 60,000 - Rs. 70,000",13 inch - 14 inch,Non-Touch,8 GB,3 GHZ and above,Apple,M1,Apple M1 GPU,SSD,None,256 GB,MacOS,476
+4/20/2022 13:06:54,es20btech11008@iith.ac.in,UG,Dell,"Rs. 80,000 - Rs. 90,000",13 inch - 14 inch,Non-Touch,32 GB,Not sure,Intel,Intel i9,None,SSD,None,256 GB,Windows,242
+4/20/2022 13:09:32,me20btech11032@iith.ac.in,UG,HP,"Rs. 40,000 - Rs. 50,000",13 inch - 14 inch,Non-Touch,4 GB,Not sure,Intel,Intel i5,Intel Graphics,HDD,1 TB,256 GB,Windows,795
+4/20/2022 13:14:30,es19btech11026@iith.ac.in,UG,Dell,"Rs. 60,000 - Rs. 70,000",14 inch - 15 inch,Non-Touch,8 GB,Not sure,Intel,Intel i5,AMD Radeon Graphics,HDD,1 TB,None,Windows,315
+4/20/2022 13:23:16,cs20btech11036@iith.ac.in,UG,Apple,"Rs. 90,000 and above",13 inch - 14 inch,Non-Touch,8 GB,Not sure,Apple,M1,None,SSD,None,512 GB,MacOS,848
+4/20/2022 13:27:25,cs19btech11005@iith.ac.in,UG,Dell,"Rs. 50,000 - Rs. 60,000",14 inch - 15 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i7,AMD Radeon Graphics,SSD,1 TB,512 GB,"Windows, Linux",611
+4/20/2022 13:37:34,es20btech11020@iith.ac.in,UG,Lenovo,"Rs. 40,000 - Rs. 50,000",15 inch - 16 inch,Non-Touch,8 GB,Not sure,Intel,Intel i5,Nvidia Graphics,HDD,1 TB,None,Windows,387
+4/20/2022 13:52:54,md20mdes14019@iith.ac.in,PG,HP,"Rs. 80,000 - Rs. 90,000",15 inch - 16 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i7,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,512 GB,Windows,151
+4/20/2022 13:54:03,cs20btech11033@iith.ac.in,UG,HP,"Rs. 90,000 and above",15 inch - 16 inch,Touch,32 GB,3 GHZ and above,Intel,Intel i7,Nvidia Graphics,SSD,None,2 TB,Windows,369
+4/20/2022 14:08:41,cs20btech11058@iith.ac.in,UG,Asus,"Rs. 80,000 - Rs. 90,000",16 inch - 17 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,AMD,AMD Ryzen 7,Nvidia Graphics,SSD,None,512 GB,"Windows, Linux",525
+4/20/2022 14:54:32,ph21mscst11007@iith.ac.in,PG,HP,"Rs. 60,000 - Rs. 70,000",15 inch - 16 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Intel Graphics,SSD,None,512 GB,"Windows, Linux",174
+4/20/2022 15:01:59,me20btech11040@iith.ac.in,UG,HP,"Rs. 40,000 - Rs. 50,000",15 inch - 16 inch,Non-Touch,4 GB,1 GHZ - 2 GHZ,Intel,Intel i3,Intel Graphics,HDD,1 TB,None,Windows,542
+4/20/2022 18:33:21,ep21btech11011@iith.ac.in,UG,Dell,"Rs. 50,000 - Rs. 60,000",15 inch - 16 inch,Non-Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,Windows,834
+4/20/2022 22:31:59,ce19resch11003@iith.ac.in,PhD,HP,"Rs. 70,000 - Rs. 80,000",13 inch - 14 inch,Touch,4 GB,1 GHZ - 2 GHZ,Intel,Intel i5,Nvidia Graphics,HDD,1 TB,None,Windows,197
+4/21/2022 8:57:41,ce21mtech12002@iith.ac.in,PG,HP,"Rs. 80,000 - Rs. 90,000",13 inch - 14 inch,Touch,8 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,Windows,838
+4/21/2022 17:00:21,es19btech11009@iith.ac.in,UG,Lenovo,"Rs. 70,000 - Rs. 80,000",15 inch - 16 inch,Non-Touch,16 GB,2 GHZ - 3 GHZ,Intel,Intel i5,Nvidia Graphics,Hybrid (Both SSD and HDD),1 TB,256 GB,Windows,618
