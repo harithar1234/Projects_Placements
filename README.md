@@ -36,6 +36,11 @@ https://github.com/harithar1234/Projects_Placements/tree/main/DSA_projects
 * Achieved Score: 0.99828 of  Kaggle challenge named "Digit Recognizer"  .<br>
 https://github.com/harithar1234/Projects_Placements/tree/main/Hackathons
 
+## Tic Tac Toe 
+* Implemented a Q-learning algorithm to train an agent to play the game of Tic-Tac-Toe against various opponents.
+* Implements the Monte Carlo Tree Search algorithm for playing Tic-Tac-Toe and evaluated its performance against random and safe opponents.<br>
+https://github.com/harithar1234/Projects_Placements/tree/main/Tic%20Tac%20Toe%20
+
 ## Analyzing Laptop Specifications
 * A data-driven analysis of laptop specifications was conducted, uncovering valuable insights and market trends that facilitate informed decision-making for laptop purchases and market analysis. <br>
 https://github.com/harithar1234/Projects_Placements/tree/main/Analyzing%20Laptop%20Specifications
