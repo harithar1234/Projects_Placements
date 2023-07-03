@@ -38,7 +38,7 @@ https://github.com/harithar1234/Projects_Placements/tree/main/Hackathons
 
 ## Tic Tac Toe 
 * Implemented a Q-learning algorithm to train an agent to play the game of Tic-Tac-Toe against various opponents.
-* Implements the Monte Carlo Tree Search algorithm for playing Tic-Tac-Toe and evaluated its performance against random and safe opponents.<br>
+* Implemented the Monte Carlo Tree Search algorithm for playing Tic-Tac-Toe and evaluated its performance against random and safe opponents.<br>
 https://github.com/harithar1234/Projects_Placements/tree/main/Tic%20Tac%20Toe%20
 
 ## Analyzing Laptop Specifications
