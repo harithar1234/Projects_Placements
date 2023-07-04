@@ -31,6 +31,11 @@ used Data structures and Algorithms to implement many real world applications:<b
 * Sudoku solver<br>
 https://github.com/harithar1234/Projects_Placements/tree/main/DSA_projects
 
+## Steganalysis 
+* Implemented deep learning model for Alaska2 dataset's JPEG Image Steganalysis to detect JUNIWARD-encoded messages in JPEG images. 
+* Using less than 20% of the data for training got an accuracy of 0.6 for trained model.<br>
+https://github.com/harithar1234/Projects_Placements/tree/main/Steganalysis
+
 ## Hackathons
 * Achieved Score: 0.87337 of  Kaggle challenge named "Is the driver at fault?" .
 * Achieved Score: 0.99828 of  Kaggle challenge named "Digit Recognizer"  .<br>
