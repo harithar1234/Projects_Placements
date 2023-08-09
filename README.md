@@ -4,7 +4,7 @@ Contains the Projects done by me . Lets go to see them .
 ## Object Detection with Voice feedback
 * implemented yolov3 algorithm and used pretrained model weights to detect multiple objects in one image .
 * used the google text to speech API to generate audio file describing the objects in the image. 
-* The model identifed objects with a confidence of about 99% .
+* The model identified objects with a confidence of about 99% .
 https://github.com/harithar1234/Projects_Placements/tree/main/Object%20Detection%20with%20Voice%20feedback
 
 ## Chatbot
