@@ -11,4 +11,19 @@ Here's a summary of the main components and functionalities in the code:
 * Complete Model Training Loop: The Complete_model function orchestrates the complete training and evaluation process. It includes multiple epochs, where each epoch consists of forward and backward passes, parameter updates, and evaluation of errors and accuracy.
 * Data Preprocessing: The code preprocesses the MNIST dataset, including loading the data, reshaping the images, encoding the labels, and splitting the data into training and testing sets.
 
+Skills Gained:
+* Deep Learning Fundamentals: gained a deep understanding of fundamental concepts in deep learning, including convolutional neural networks (CNNs), backpropagation, activation functions (ReLU, Softmax), loss functions (cross-entropy), and optimization algorithms (Vanilla SGD, Momentum, RMSprop).
+* Neural Network Components: implemented various layers and components of a neural network, including convolutional layers, pooling layers, fully connected layers, and flattening layers. This demonstrates my grasp of the building blocks of modern neural networks.
+* Gradient Descent Optimization: By implementing optimization algorithms like Vanilla SGD, Momentum, and RMSprop, learned how to update network parameters iteratively to minimize the loss function.
+* Data Preprocessing: processed and prepared data for training and evaluation. This includes reshaping images, encoding labels into one-hot vectors, and splitting data into training and testing sets.
+* Evaluation Metrics: calculated cross-entropy loss and accuracy as evaluation metrics to assess the performance of the model.
+* Visualization: created t-SNE plots to visualize the feature vectors in a lower-dimensional space, helping to understand the distribution of data.
+
+Tech Stack Used:
+* Python: The primary programming language used for implementing the entire neural network and related functionalities.
+* NumPy: Used for numerical computations and array manipulations.
+* Matplotlib: Used for creating visualizations, such as plots and t-SNE visualizations.
+* scikit-learn (sklearn): Utilized for t-SNE implementation and dimensionality reduction visualization.
+* TensorFlow (potentially): TensorFlow might have been used for loading the MNIST dataset and preprocessing it, although it's not explicitly shown in the code.
+
 Overall, my code demonstrates a comprehensive understanding of implementing a CNN from scratch and training it using different optimization algorithms. It's worth noting that while implementing these components from scratch is a great learning exercise, using established deep learning frameworks like TensorFlow or PyTorch can significantly simplify and optimize the development process for real-world projects.
