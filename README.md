@@ -1,5 +1,6 @@
 # Projects_Placements
-Contains the Projects done by me . Lets go to see them . Download the all project report at https://github.com/harithar1234/Projects_Placements/blob/main/Projects%20Placements%20Report%20Haritha.pdf
+Contains the Projects done by me . Lets go to see them .
+Download the all project report at https://github.com/harithar1234/Projects_Placements/blob/main/Projects%20Placements%20Report%20Haritha.pdf
 
 ## Object Detection with Voice feedback
 * implemented yolov3 algorithm and used pretrained model weights to detect multiple objects in one image .
