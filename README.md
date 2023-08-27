@@ -31,6 +31,11 @@ used Data structures and Algorithms to implement many real world applications:<b
 * Sudoku solver<br>
 https://github.com/harithar1234/Projects_Placements/tree/main/DSA_projects
 
+## MNIST Image Classifier 
+* Implemented each of the components of a convolutional neural network (CNN) from scratch, including backpropagation.  
+* Using this network built an image classifier trained on MNIST dataset for digit classification and attained accuracy of 88% . <br>
+https://github.com/harithar1234/Projects_Placements/tree/main/MNIST%20Image%20Classifier
+
 ## Steganalysis 
 * Implemented deep learning model for Alaska2 dataset's JPEG Image Steganalysis to detect JUNIWARD-encoded messages in JPEG images. 
 * Using less than 20% of the data for training got an accuracy of 0.6 for trained model.<br>
