@@ -9,7 +9,7 @@ https://github.com/harithar1234/Projects_Placements/tree/main/Object%20Detection
 
 ## Chatbot
 * Implemented a retrieval-based chatbot(named Haritha) .
-* This Chatbot is specifically designed to mimic the chatbots of Food delivery platforms. It uses uses Natural Language Processing and Deep learning.
+* This Chatbot is specifically designed to mimic the chatbots of Food delivery platforms. It uses Natural Language Processing and Deep learning.
 * The chatbot achieved an accuracy of 98% in generating appropriate responses . 
 https://github.com/harithar1234/Projects_Placements/tree/main/Chatbot_food_delivery
 
