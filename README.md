@@ -26,10 +26,10 @@ https://github.com/harithar1234/Projects_Placements/tree/main/Chatbot_food_deliv
 
 ## DSA Projects 
 used Data structures and Algorithms to implement many real world applications:<br>
-* RISC-V Disassembler
-* Sorting Visualizer
-* File Zipper
-* Sudoku solver<br>
+* **RISC-V Disassembler** - Implemented a disassembler converting a given RISC-V machine code to equivalent assembly syntax.
+* **Sorting Visualizer** -  The Program demonstrates various sorting algorithms on a randomly generated array. It visualizes the sorting process step by step .
+* **File Zipper** - Implements Huffman coding for file compression and decompression. It utilizes priority queues, binary trees, and variable-length prefix codes for efficient data encoding and decoding.
+* **Sudoku solver** - Implemented backtracking algorithm to solve Sudoku puzzles. <br>
 https://github.com/harithar1234/Projects_Placements/tree/main/DSA_projects
 
 ## MNIST Image Classifier 
