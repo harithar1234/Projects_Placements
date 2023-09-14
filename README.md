@@ -34,7 +34,8 @@ https://github.com/harithar1234/Projects_Placements/tree/main/DSA_projects
 
 ## MNIST Image Classifier 
 * Implemented each of the components of a convolutional neural network (CNN) from scratch, including backpropagation.  
-* Using this network built an image classifier trained on MNIST dataset for digit classification and attained accuracy of 88% . <br>
+* Using this network built an image classifier trained on MNIST dataset for digit classification and attained accuracy of 88% .
+* The results were compared with the CNN built using Pytorch Libary. <br>
 https://github.com/harithar1234/Projects_Placements/tree/main/MNIST%20Image%20Classifier
 
 ## Steganalysis 
