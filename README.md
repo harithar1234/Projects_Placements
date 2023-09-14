@@ -45,10 +45,9 @@ https://github.com/harithar1234/Projects_Placements/tree/main/Steganalysis
 
 ## Hackathons
 * Achieved Score: 0.87337 of  Kaggle challenge named "Is the driver at fault?" . <br>
-The machine learning model used is a Stacking Ensemble Model, combining three base models: Random Forest, LightGBM, and XGBoost. These base models' predictions are integrated using a meta-model (LightGBM) to produce the final prediction, often enhancing predictive performance. <br>
-The ML model is used to assess the quality of wine (0/1). <br>
+The machine learning model used is a Stacking Ensemble Model, combining three base models: Random Forest, LightGBM, and XGBoost. These base models' predictions are integrated using a meta-model (LightGBM) to produce the final prediction, often enhancing predictive performance. The ML model is used to assess the quality of wine (0/1). <br>
 * Achieved Score: 0.99828 of  Kaggle challenge named "Digit Recognizer"  .<br>
-  Built a CNN model for digit recognition, to take an image of a handwritten single digit, and determine what that digit is. <br>
+  Built a Convolutional Neural Network (CNN) model for digit recognition, to take an image of a handwritten single digit, and determine what that digit is. <br>
 https://github.com/harithar1234/Projects_Placements/tree/main/Hackathons
 
 ## Analyzing Laptop Specifications
