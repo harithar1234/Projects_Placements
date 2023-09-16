@@ -56,7 +56,7 @@ https://github.com/harithar1234/Projects_Placements/tree/main/Analyzing%20Laptop
 
 ## Binary Classifier 
 * Utilized a Stacking Ensemble Model, to combine three base models: Random Forest, LightGBM, and XGBoost. <br>
-* Integrated predictions from base models using a meta-model (LightGBM) to develop a binary classifer model to determine whether 
+* Integrated predictions from base models using a meta-model (LightGBM) to develop a binary classifier model to determine whether 
 the driver was at fault in the accident.The model accuracy was 87 percent. <br>
 https://github.com/harithar1234/Projects_Placements/tree/main/Hackathons/Is%20the%20driver%20at%20fault%3F
 
