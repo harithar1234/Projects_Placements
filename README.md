@@ -60,8 +60,7 @@ https://github.com/harithar1234/Projects_Placements/tree/main/Analyzing%20Laptop
 https://github.com/harithar1234/Projects_Placements/tree/main/Tic%20Tac%20Toe%20
 
 ## OS Multithreading 
-* Utilized multithreading to parallelize the task of fnding perfect numbers within a specifed range, improving efciency,
-reducing processing time and leveraging concurrent execution ,demonstrating efcient CPU utilization. <br>
+* Utilized multithreading to parallelize the task of finding perfect numbers within a specified range, improving efficiency, reducing processing time and leveraging concurrent execution ,demonstrating efficient CPU utilization. <br>
 https://github.com/harithar1234/Projects_Placements/tree/main/OS%20multithreading
 
 ## Digital Fabrication of Navy Ship
