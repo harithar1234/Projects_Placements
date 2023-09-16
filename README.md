@@ -51,7 +51,7 @@ The machine learning model used is a Stacking Ensemble Model, combining three ba
 https://github.com/harithar1234/Projects_Placements/tree/main/Hackathons
 
 ## Analyzing Laptop Specifications
-* A data-driven analysis of laptop specifications was conducted, uncovering valuable insights and market trends that facilitate informed decision-making for laptop purchases and market analysis. <br>
+* A data-driven analysis of laptop specifications was conducted, uncovering valuable insights and market trends that facilitate informed decision-making for laptop purchases and market analysis ,applying statistical methods and data visualization , showcasing advanced data analytics skills.<br>
 https://github.com/harithar1234/Projects_Placements/tree/main/Analyzing%20Laptop%20Specifications
 
 ## Tic Tac Toe 
