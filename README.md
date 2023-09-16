@@ -54,6 +54,11 @@ https://github.com/harithar1234/Projects_Placements/tree/main/Hackathons
 * A data-driven analysis of laptop specifications was conducted, uncovering valuable insights and market trends that facilitate informed decision-making for laptop purchases and market analysis ,applying statistical methods and data visualization , showcasing advanced data analytics skills.<br>
 https://github.com/harithar1234/Projects_Placements/tree/main/Analyzing%20Laptop%20Specifications
 
+## Binary Classifier 
+* Utilized a Stacking Ensemble Model, to combine three base models: Random Forest, LightGBM, and XGBoost. <br>
+* Integrated predictions from base models using a meta-model (LightGBM) to develop a binary classifer model to determine whether 
+the driver was at fault in the accident.The model accuracy was 87 percent. <br>
+
 ## Tic Tac Toe 
 * Implemented a Q-learning algorithm to train an agent to play the game of Tic-Tac-Toe against various opponents.
 * Implemented the Monte Carlo Tree Search algorithm for playing Tic-Tac-Toe and evaluated its performance against random and safe opponents.<br>
