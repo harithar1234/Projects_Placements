@@ -69,6 +69,10 @@ https://github.com/harithar1234/Projects_Placements/tree/main/Tic%20Tac%20Toe%20
 * Utilized multithreading to parallelize the task of finding perfect numbers within a specified range, improving efficiency, reducing processing time and leveraging concurrent execution ,demonstrating efficient CPU utilization. <br>
 https://github.com/harithar1234/Projects_Placements/tree/main/OS%20multithreading
 
+## CUDA-Accelerated Kronecker Product Computation
+* Implemented three optimized CUDA kernels (per-row, per-column, and per-element) for parallel computation of matrix Kronecker product (C = A ⊗ Bᵀ), leveraging 1D and 2D thread-block parallelism and efficient global memory access patterns to achieve up to 50× performance improvement over CPU implementations on 1024×1024 matrices. <br>
+https://github.com/harithar1234/Projects_Placements/tree/main/CUDA-Accelerated%20Kronecker%20Product%20Computation
+
 ## Digital Fabrication of Navy Ship
 * Designed an 3D model of Destroyer Navy ship using computer-aided design in Solid Edge platform .<br>
 https://github.com/harithar1234/Projects_Placements/tree/main/Digital%20Fabrication%20of%20Navy%20Ship
