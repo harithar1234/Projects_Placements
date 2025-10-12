@@ -1,0 +1,10 @@
+create view citation as select * from citations where citations.cited is not null;
+create view cc as select c1.cited,c1.citee from citation c1 union select c2.citee,c2.cited from citation c2;
+select * from cc;
+create view s_papers as SELECT s1.citee as p1,s2.citee as p2,s3.citee as p3 FROM cc s1 join cc s2 on s1.cited=s2.citee join cc s3 on s3.citee=s2.cited where s1.citee=s3.cited and s1.citee<s2.citee and s2.citee<s3.citee;
+create view t1 as select a1.name as au1, s1.p1,s1.p2,s1.p3 from authors a1 join s_papers s1 on a1.paper_index=s1.p1 ;
+select * from t1;
+create view t2o as select t1.au1, a1.name as au2,t1.p1,t1.p2, t1.p3 from t1 join authors a1 on t1.p2=a1.paper_index where t1.au1<>a1.name;
+select * from t2o;
+create view t3 as select t2o.au1,t2o.au2,a1.name as a3,t2o.p1,t2o.p2,t2o.p3 from t2o join authors a1 on t2o.p3=a1.paper_index where t2o.au1<>a1.name and t2o.au2<>a1.name;
+select * from t3;
