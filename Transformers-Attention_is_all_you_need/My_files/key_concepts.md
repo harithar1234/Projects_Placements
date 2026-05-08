@@ -194,13 +194,13 @@
 
 ---
 
-## 13. Quick mental model (one paragraph)
+## 12. Mental model
 
 A Transformer turns each input token into a vector, **adds a positional code** so order is preserved, then runs the sequence through a stack of blocks. Each block lets every token **look at every other token via self-attention** (Q·Kᵀ → softmax → weighted sum of Vs across multiple heads), then **mixes information non-linearly per position** with a feed-forward network. **Residual connections + LayerNorm** keep deep stacks trainable. The encoder builds a fully bidirectional representation of the source. The decoder generates the target **left-to-right**, using a **causal mask** on its own self-attention and **cross-attention** to read from the encoder. A final linear layer projects to vocab logits. We train with **teacher-forced cross-entropy** + **label smoothing**, then **decode autoregressively** at inference time, optionally with **beam search**.
 
 ---
 
-## 14. Glossary (one-liners — interview-ready)
+## 13. Glossary 
 
 - **Attention:** A weighted average of values, where weights come from a softmax over query–key dot products.
 - **Self-attention:** Attention where Q, K, V all come from the same sequence.
@@ -220,7 +220,7 @@ A Transformer turns each input token into a vector, **adds a positional code** s
 - **KV cache:** Reuse past keys/values during autoregressive decoding for speed.
 
 ---
-
+<!--
 ## 15. What I can confidently explain in an interview
 
 - The exact tensor shapes flowing through every layer (`(B, seq_len, d_model)` → reshape into `(B, h, seq_len, d_k)` for attention → back to `(B, seq_len, d_model)`).
@@ -231,3 +231,4 @@ A Transformer turns each input token into a vector, **adds a positional code** s
 - The full training loop: tokenize → embed + PE → encoder → masked decoder + cross-attn → projection → label-smoothed CE loss → Adam step.
 - The full inference loop: encode source once → loop: feed `[SOS]` + generated-so-far → take last logit → argmax (or beam) → append → stop on `[EOS]`.
 - Trade-offs: parallelism vs `O(n²)` memory; pre-norm vs post-norm; greedy vs beam search.
+-->
