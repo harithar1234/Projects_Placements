@@ -33,3 +33,6 @@ the perfect numbers less than N and the thread that identified it. A possible ou
 format for two threads is as follows: <br>
 Thread1: num1 num2 .... <br>
 Thread2: num5 num6 .... <br>
+
+<img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/86a536bf-b432-4082-82eb-b64fdc344e4e" />
+
