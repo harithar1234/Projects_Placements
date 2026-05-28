@@ -1,11 +1,11 @@
 
 ## Sources
 
-* **Coding a Transformer from scratch on PyTorch, with full explanation, training and inference.**
-  [Watch Video](https://www.youtube.com/watch?v=ISNdQcPhsts)
+* **Attention is all you need (Transformer) - Model explanation (including math), Inference and Training(1 hr)**
+  [Watch Playlist](https://www.youtube.com/watch?v=bCz4OMemCcA&list=PLs-ugvyV8JZrwaaTFjMRo_V_AQedX26HO&index=1)
 
-* **Attention is all you need (Transformer) - Model explanation (including math), Inference and Training**
-  [Watch Playlist](https://www.youtube.com/watch?v=bCz4OMemCcA&list=PLs-ugvyV8JZrwaaTFjMRo_V_AQedX26HO)
+* **Coding a Transformer from scratch on PyTorch, with full explanation, training and inference.(3 hrs)**
+  [Watch Video](https://www.youtube.com/watch?v=ISNdQcPhsts)
 
 * **PyTorch Transformer Source Code**
   [GitHub Repository](https://github.com/hkproj/pytorch-transformer)
