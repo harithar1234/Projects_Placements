@@ -24,6 +24,12 @@ https://github.com/harithar1234/Projects_Placements/tree/main/Chatbot_food_deliv
 * Developed informative ER diagrams, efficient relational table schema and retrieved information with complex queries.
   https://github.com/harithar1234/Projects_Placements/tree/main/Development%20and%20Management%20of%20Database
 
+## Seq2Seq Transformer 
+* Implemented the complete encoder–decoder Transformer architecture (∼75M parameters) in PyTorch from scratch, based on “Attention Is All You Need ”, with sinusoidal positional encoding, scaled dot-product attention, multi-head self/cross-attention, position-wise feed-forward networks, residual connections, LayerNorm, and padding & causal masks.
+* Trained on the Hugging Face OPUS Books English–Italian translation dataset (∼32K pairs) using custom WordLevel tokenizers, Adam optimizer, and label-smoothed cross-entropy loss on a Tesla V100 GPU.
+* Developed greedy autoregressive decoding for inference, evaluated with BLEU/WER/CER on validation samples, and visualized multi-head attention maps for interpretability. <br>
+https://github.com/harithar1234/Projects_Placements/tree/main/Transformers-Attention_is_all_you_need
+
 ## DSA Projects 
 used Data structures and Algorithms to implement many real world applications:<br>
 * **RISC-V Disassembler** - Implemented a disassembler converting a given RISC-V machine code to equivalent assembly syntax.
